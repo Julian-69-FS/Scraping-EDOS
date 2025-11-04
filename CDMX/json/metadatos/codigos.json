@@ -1,0 +1,67 @@
+[
+    {
+        "ID": 1,
+        "NOMBRE_ARCHIVO": "CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "27 DE diciembre DE 2024",
+        "FECHA_PUBLICACION": "29 de diciembre de 2009",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/CODIGO_FISCAL_DE_LA_CDMX_25.pdf"
+    },
+    {
+        "ID": 2,
+        "NOMBRE_ARCHIVO": "CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "23 de diciembre de 2024",
+        "FECHA_PUBLICACION": "07 DE junio DE 2017",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_INSTITUCIONES_Y_PROC_ELECTORALES_CDMX_6.pdf"
+    },
+    {
+        "ID": 3,
+        "NOMBRE_ARCHIVO": "CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "N/A",
+        "FECHA_PUBLICACION": "07 DE febrero DE 2019",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_ETICA_DE_LA_AP_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf"
+    },
+    {
+        "ID": 4,
+        "NOMBRE_ARCHIVO": "CÓDIGO DE RESPONSABILIDAD PARLAMENTARIA DEL CONGRESO DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "N/A",
+        "FECHA_PUBLICACION": "03 DE abril DE 2019",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_RESPONSABILIDAD_PARLAMENTARIA_DEL_CONGRESO_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf"
+    },
+    {
+        "ID": 5,
+        "NOMBRE_ARCHIVO": "CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL",
+        "ULTIMA_REFORMA": "18 de julio de 2018",
+        "FECHA_PUBLICACION": "01 AL 21 DE SEPTIEMBRE DE 1932",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/Codigo_Procedimientos_Civiles_DF_2.2.pdf"
+    },
+    {
+        "ID": 6,
+        "NOMBRE_ARCHIVO": "CÓDIGO CIVIL PARA EL DISTRITO FEDERAL",
+        "ULTIMA_REFORMA": "29 de noviembre de 2024",
+        "FECHA_PUBLICACION": "26 DE mayo DE 1926",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_CIVIL_PARA_EL_DF_15.2.pdf"
+    },
+    {
+        "ID": 7,
+        "NOMBRE_ARCHIVO": "CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "26 de diciembre de 2023",
+        "FECHA_PUBLICACION": "29 DE diciembre DE 2009",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_FISCAL_DE_LA_CDMX_6.2.pdf"
+    },
+    {
+        "ID": 8,
+        "NOMBRE_ARCHIVO": "CÓDIGO PENAL PARA EL DISTRITO FEDERAL",
+        "ULTIMA_REFORMA": "30 de mayo de 2025",
+        "FECHA_PUBLICACION": "16 DE julio DE 2002",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/2025/CODIGO_PENAL_PARA_EL_DF_12.3.2.pdf"
+    },
+    {
+        "ID": 9,
+        "NOMBRE_ARCHIVO": "CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS PARA EL DISTRITO FEDERAL",
+        "ULTIMA_REFORMA": "N/A",
+        "FECHA_PUBLICACION": "09 DE julio DE 2014",
+        "URL_PDF": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/Codigo_de_etica_de_los_servidores_publicos_del_DF_3.pdf"
+    }
+
+]
+

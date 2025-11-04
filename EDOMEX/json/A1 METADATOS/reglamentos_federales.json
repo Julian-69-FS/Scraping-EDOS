@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "TITULO": "Reglamento para el Transporte Seguro de Material Radiactivo.",
+    "URL": "http://www.gob.mx/cms/uploads/attachment/file/212009/2017_04_10_MAT_sener.pdf"
+  },
+  {
+    "ID": 2,
+    "TITULO": "Reglamento del Centro Unificado para la Protección Marítima y Portuaria",
+    "URL": "http://www.gob.mx/cms/uploads/attachment/file/164210/Reglamento_CUMAR.pdf"
+  },
+  {
+    "ID": 3,
+    "TITULO": "Reglamento Interior de la Secretaría de Marina",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724936/Reglamento_Interior_de_la_SEMAR_07-06-2021.pdf"
+  },
+  {
+    "ID": 4,
+    "TITULO": "Reglamento Interno de la Comisión Intersecretarial para el Manejo Sustentable de Mares y Costas.",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724935/Reg._Intermo_Comisi_n_Intersecretarial_Manejo_Sus._Mares_y_Costas_08-04-2016.pdf"
+  }
+]

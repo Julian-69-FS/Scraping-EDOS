@@ -1,0 +1,117 @@
+[
+  {
+    "ID": 1,
+    "TITULO": "Ley de Navegación y Comercio Marítimos",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724500/Ley_de_Navegacion_y_Comercio_Mar_timos_07-12-2020.pdf"
+  },
+  {
+    "ID": 2,
+    "TITULO": "Ley de Puertos",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724502/Ley_de_Puertos_07-12-2020.pdf"
+  },
+  {
+    "ID": 3,
+    "TITULO": "Ley Orgánica de la Administración Pública Federal",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724517/Ley_Organica_de_la_APF_20-10-2021.pdf"
+  },
+  {
+    "ID": 4,
+    "TITULO": "Ley Federal de Procedimiento Administrativo",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724504/Ley_Fed._de_Proc._Admvo._18-05-2018.pdf"
+  },
+  {
+    "ID": 5,
+    "TITULO": "Ley Federal de Transparencia y Acceso a la Información Pública",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724507/Ley_Fed._de_Transp._y_Acc._a_la_Inf._P_b._20-05-2022.pdf"
+  },
+  {
+    "ID": 6,
+    "TITULO": "Ley General de Transparencia y Acceso a la Información Pública",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724516/Ley_Gral._Transp._y_Acceso_a_la_Inf._P_b._20-05-2021.pdf"
+  },
+  {
+    "ID": 7,
+    "TITULO": "Ley General de Archivos",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724510/Ley_General_de_Archivos_15-06-2018.pdf"
+  },
+  {
+    "ID": 8,
+    "TITULO": "Ley Federal de Derechos",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724514/Ley_Federal_de_Derechos_12-11-2021.pdf"
+  },
+  {
+    "ID": 9,
+    "TITULO": "Ley Federal de Responsabilidades de los Servidores Públicos",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724508/Ley_Fed._Resp._de_los_Servidores_P_blicos_18-07-2016.pdf"
+  },
+  {
+    "ID": 10,
+    "TITULO": "Ley General de Responsabilidades Administrativas",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724515/Ley_Gral._Resp._Administrativas_22-11-2021.pdf"
+  },
+  {
+    "ID": 11,
+    "TITULO": "Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724495/Ley_de_Adquisiciones__Arrendam._y_Serv._Sec._P_b._20-05-2021.pdf"
+  },
+  {
+    "ID": 12,
+    "TITULO": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2022",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724499/Ley_de_Ingresos_Federaci_n_Ejercicio_Fiscal_2022_12-11-2021.pdf"
+  },
+  {
+    "ID": 13,
+    "TITULO": "Ley de Aguas Nacionales",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724496/Ley_de_Aguas_Nacionales_06-01-2020.pdf"
+  },
+  {
+    "ID": 14,
+    "TITULO": "Ley de Hidrocarburos",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724497/Ley_de_Hidrocarburos_20-05-2021.pdf"
+  },
+  {
+    "ID": 15,
+    "TITULO": "Ley de Vertimientos en Zonas Marinas Mexicanas",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724503/Ley_de_Vertimentos_Zonas_Marinas_Mex._13-04-2020.pdf"
+  },
+  {
+    "ID": 16,
+    "TITULO": "Ley de Vías Generales de Comunicación",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724505/Ley_de_V_s_Generales_de_Comunicaci_n_22-02-2022.pdf"
+  },
+  {
+    "ID": 17,
+    "TITULO": "Ley Federal del Mar",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724509/Ley_Federal_del_Mar_08-01-1986.pdf"
+  },
+  {
+    "ID": 18,
+    "TITULO": "Ley de Obras Públicas y Servicios Relacionados con las mismas",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724501/Ley_de_Obras_P_blicas_y_Serv._Rel._con_las_mismas_20-05-2021.pdf"
+  },
+  {
+    "ID": 19,
+    "TITULO": "Ley General de Bienes Nacionales",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724511/Ley_General_de_Bienes_Nacionales_14-09-2021.pdf"
+  },
+  {
+    "ID": 20,
+    "TITULO": "Ley General de Mejora Regulatoria",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724512/Ley_General_de_Mejora_Regulatoria_20-05-2021.pdf"
+  },
+  {
+    "ID": 21,
+    "TITULO": "Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724513/Ley_Gral._Protecc._Datos_Personales_en_Poses._Suj._Ob._26-01-2017.pdf"
+  },
+  {
+    "ID": 22,
+    "TITULO": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724506/Ley_Fed._Protecc._datos_Personales_05-07-2010.pdf"
+  },
+  {
+    "ID": 23,
+    "TITULO": "Ley de Infraestructura de la Calidad",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724498/Ley_de_Infraestructura_de_la_Calidad_01-07-2020.pdf"
+  }
+]

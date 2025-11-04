@@ -1,0 +1,57 @@
+[
+  {
+    "ID": 1,
+    "TITULO": "Reglamento de la Ley de Navegación y Comercio Marítimos",
+    "URL": "http://www.gob.mx/cms/uploads/attachment/file/164217/01-reglamento_ley_navegacion_comercio_maritimos.pdf"
+  },
+  {
+    "ID": 2,
+    "TITULO": "Reglamento de la Ley de Puertos",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724932/Reglamento_de_la_Ley_de_Puertos_16-12-2021.pdf"
+  },
+  {
+    "ID": 3,
+    "TITULO": "Reglamento de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724928/Reg._Ley_Fed._de_Transparencia_y_Acc._Inf._P_b._Gub._11-06-2003.pdf"
+  },
+  {
+    "ID": 4,
+    "TITULO": "Reglamento de la Ley de Aguas Nacionales",
+    "URL": "http://www.gob.mx/cms/uploads/attachment/file/164212/Reglamentoaguasnacionales.pdf"
+  },
+  {
+    "ID": 5,
+    "TITULO": "Reglamento de la Ley de Hidrocarburos",
+    "URL": "http://www.gob.mx/cms/uploads/attachment/file/164213/ReglamentoHidrocarburos.pdf"
+  },
+  {
+    "ID": 6,
+    "TITULO": "Reglamento de las Actividades a que se refiere el Título Tercero de la Ley de Hidrocarburos",
+    "URL": "http://www.gob.mx/cms/uploads/attachment/file/164214/Reglamentotitulotercero.pdf"
+  },
+  {
+    "ID": 7,
+    "TITULO": "Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/729329/Reg._Ley_de_Adquisiciones__Arrend._y_Serv._del_Sec._P_b._14-06-2021.pdf"
+  },
+  {
+    "ID": 8,
+    "TITULO": "Reglamento de la Ley de Obras Públicas y Servicios relacionados con las Mismas",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724933/Reg._de_la_Ley_de_Obras_P_blicas_28-07-2010.pdf"
+  },
+  {
+    "ID": 9,
+    "TITULO": "Reglamento de la Ley Federal de Archivos",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724931/Reg._Ley_Federal_de_Archivos_13-05-2014.pdf"
+  },
+  {
+    "ID": 10,
+    "TITULO": "Reglamento de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724929/Reg._Ley_Fed._Protecc._Datos_Personales_21-12-2011.pdf"
+  },
+  {
+    "ID": 11,
+    "TITULO": "Reglamento de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental",
+    "URL": "https://www.gob.mx/cms/uploads/attachment/file/724930/Reg._Ley_Fed._Transparencia_y_Acc._Inf._P_b._Gub._11-06-2003.pdf"
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "TITULO": "REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "04 de agosto de 2025",
+        "FECHA_PUBLICACION": "22-09-2025",
+        "URL_PDF": "https://www.congresocdmx.gob.mx/media/documentos/6be20c66ceaddaf513c255a09f50ed0502bbf5ff.pdf"
+    },
+    {
+        "ID": 2,
+        "TITULO": "LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "08 de abril de 2025",
+        "FECHA_PUBLICACION": "05-05-2025",
+        "URL_PDF": "https://www.congresocdmx.gob.mx/media/documentos/f73adba1bb322e5085f128ec89d4c9bd47a7a847.pdf"
+    },
+    {
+        "ID": 3,
+        "TITULO": "REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO PARTE 2",
+        "ULTIMA_REFORMA": "08 de abril de 2025",
+        "FECHA_PUBLICACION": "05-05-2025",
+        "URL_PDF": "https://www.congresocdmx.gob.mx/media/documentos/a102b2d76c13d4e233b0fd13b0d81bea954cee73.pdf"
+    },
+    {
+        "ID": 4,
+        "TITULO": "CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "11 de septiembre de 2024",
+        "FECHA_PUBLICACION": "24-10-2024",
+        "URL_PDF": "https://www.congresocdmx.gob.mx/media/documentos/1335dbceb368c6ef199aa9efc80f269ac41369ca.pdf"
+    },
+    {
+        "ID": 5,
+        "TITULO": "CÓDIGO DE RESPONSABILIDAD PARLAMENTARIA DEL CONGRESO DE LA CIUDAD DE MÉXICO",
+        "ULTIMA_REFORMA": "03 de abril de 2019",
+        "FECHA_PUBLICACION": "14-06-2022",
+        "URL_PDF": "https://www.congresocdmx.gob.mx/media/documentos/c8b20e518a2f88bff7990868cb6acca90bf4eeb4.pdf"
+    }
+
+]

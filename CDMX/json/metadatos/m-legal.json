@@ -1,0 +1,1248 @@
+[
+  {
+    "ID": 1,
+    "TITULO": "CÓDIGO CIVIL PARA EL DISTRITO FEDEAL",
+    "ULTIMA_REFORMA": "27 de septiembre de 2024",
+    "FECHA_PUBLICACION": "24-10-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-750c763f50e26a46afd73e40dca4c4bc8a4cb741.pdf"
+  },
+  {
+    "ID": 2,
+    "TITULO": "CÓDIGO PENAL PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "04 de octubre de 2024",
+    "FECHA_PUBLICACION": "24-10-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-1756a3b9d0689d278e4578e9bcb6c7591cc9b983.pdf"
+  },
+  {
+    "ID": 3,
+    "TITULO": "LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de septiembre de 2024",
+    "FECHA_PUBLICACION": "22-10-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-411d7cdcf83e1827b31e0b3d4e28fe84a38c6058.pdf"
+  },
+  {
+    "ID": 4,
+    "TITULO": "LEY REGISTRAL PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de septiembre de 2024",
+    "FECHA_PUBLICACION": "22-10-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3d5c5d4fcdffe0ad41990bca5b0c6ed1bba57b5a.pdf"
+  },
+  {
+    "ID": 5,
+    "TITULO": "LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de septiembre de 2024",
+    "FECHA_PUBLICACION": "22-10-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-d46a311809b989d4bb9b047d991aee2a56a606f2.pdf"
+  },
+  {
+    "ID": 6,
+    "TITULO": "LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "23 de agosto de 2024",
+    "FECHA_PUBLICACION": "22-10-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-9f74acb7161683c662d59b2affce2de003e62615.pdf"
+  },
+  {
+    "ID": 7,
+    "TITULO": "LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "01 de agosto de 2024",
+    "FECHA_PUBLICACION": "22-10-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-af5ff0143894fd95b49b9ad9df27172f94d872bc.pdf"
+  },
+  {
+    "ID": 8,
+    "TITULO": "LEY DEL DERECHO AL BIENESTAR E IGUALDAD SOCIAL PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de Julio de 2024",
+    "FECHA_PUBLICACION": "06-09-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c46d2d4d564d9cb3a2f1c8dee9e7c8353860e6f8.pdf"
+  },
+  {
+    "ID": 9,
+    "TITULO": "LEY DE FILMACIONES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "19 de julio de 2024",
+    "FECHA_PUBLICACION": "20-08-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-45f1d115a4c3f29ea423772f0b42fedeb3470dec.pdf"
+  },
+  {
+    "ID": 10,
+    "TITULO": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "19 de julio de 2024",
+    "FECHA_PUBLICACION": "20-08-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-0198c0e2ce8907ae6d7f12c9f2ec5f74385a6d2b.pdf"
+  },
+  {
+    "ID": 11,
+    "TITULO": "LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "15 de marzo de 2024",
+    "FECHA_PUBLICACION": "27-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-0f196ec439d71c3ff5a57ffd1b85a720a8f71c8e.pdf"
+  },
+  {
+    "ID": 12,
+    "TITULO": "LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "07 de junio de 2024",
+    "FECHA_PUBLICACION": "27-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-bd57c84c2f87a26a657f851bcb4d83a09d2dfa75.pdf"
+  },
+  {
+    "ID": 13,
+    "TITULO": "LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI+ DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "29 de abril de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c51be79163848f79345c6f96a2fefd6e1dc39b71.pdf"
+  },
+  {
+    "ID": 14,
+    "TITULO": "LEY DE TURISMO DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "04 de abril de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-673a5289d50891450c217550e9f561a590bcf88f.pdf"
+  },
+  {
+    "ID": 15,
+    "TITULO": "LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de marzo de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-d9a88d2cc7a2b0f3d5cf61bd5db2e563584e6c14.pdf"
+  },
+  {
+    "ID": 16,
+    "TITULO": "LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de marzo de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-d674f8eefb96d0eeb355688dfc86568f0e8d4c89.pdf"
+  },
+  {
+    "ID": 17,
+    "TITULO": "LEY DE LOS DERECHOS CULTURALES DE LOS HABITANTES Y VISITANTES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de marzo de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-291885b2ea202aa22a81aba92f2bfebf8a09f96e.pdf"
+  },
+  {
+    "ID": 18,
+    "TITULO": "LEY DE OBRAS PÚBLICAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de marzo de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-b3b227a044ef8bd3e6e78b0b38de0f3447a5913f.pdf"
+  },
+  {
+    "ID": 19,
+    "TITULO": "LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "07 de marzo de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-4c000292c4af44c8a3d34184ce42afed4d5dcbb4.pdf"
+  },
+  {
+    "ID": 20,
+    "TITULO": "LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "04 de marzo de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-812a706cdd1ff1ea0317f688293c562fe155d063.pdf"
+  },
+  {
+    "ID": 21,
+    "TITULO": "LEY DE ALBERGUES PRIVADOS PARA PERSONAS MAYORES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "04 de marzo de 2024",
+    "FECHA_PUBLICACION": "26-06-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-a714fd2ebb506a377ee6f2752638094c1a55d1d8.pdf"
+  },
+  {
+    "ID": 22,
+    "TITULO": "LEY DE INGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2024",
+    "ULTIMA_REFORMA": "26 de diciembre de 2023",
+    "FECHA_PUBLICACION": "18-01-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-cead47b9587573016fb07b3ca2f2c63cb4df55eb.pdf"
+  },
+  {
+    "ID": 23,
+    "TITULO": "PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2024",
+    "ULTIMA_REFORMA": "26 de diciembre de 2023",
+    "FECHA_PUBLICACION": "18-01-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7d14510e8dd791413de1ca13c91664fef9c577fd.pdf"
+  },
+  {
+    "ID": 24,
+    "TITULO": "LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "06 de diciembre de 2023",
+    "FECHA_PUBLICACION": "16-01-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-b227879fc54792f04b214446ceb5365b06897596.pdf"
+  },
+  {
+    "ID": 25,
+    "TITULO": "LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "06 de diciembre de 2023",
+    "FECHA_PUBLICACION": "16-01-2024",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-352196fcae46338556c7fa8fbb5ec822d3cef1db.pdf"
+  },
+  {
+    "ID": 26,
+    "TITULO": "LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 de noviembre de 2023",
+    "FECHA_PUBLICACION": "05-12-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7b5d6d072257bd2e9f67310ccd2ae280324fed10.pdf"
+  },
+  {
+    "ID": 27,
+    "TITULO": "LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 de noviembre de 2023",
+    "FECHA_PUBLICACION": "05-12-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-8243ab6cd4e44d89acb1aa1b6c303a84227cc384.pdf"
+  },
+  {
+    "ID": 28,
+    "TITULO": "CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de junio de 2023",
+    "FECHA_PUBLICACION": "27-11-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-10e1731cd909366e2cf826df6d55a84828f9fc13.pdf"
+  },
+  {
+    "ID": 29,
+    "TITULO": "LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de septiembre de 2021",
+    "FECHA_PUBLICACION": "17-10-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-6f72067c0037acb3c27f1dc68b5fd3bd06f5f602.pdf"
+  },
+  {
+    "ID": 30,
+    "TITULO": "LEY DE SALUD DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "10 de octubre de 2023",
+    "FECHA_PUBLICACION": "17-10-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-a4e6ec3a20c2a98d255a2cd4b621fcf7984e2904.pdf"
+  },
+  {
+    "ID": 31,
+    "TITULO": "LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "06 de octubre de 2023",
+    "FECHA_PUBLICACION": "17-10-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-9b80fcd25456d31a64a19fe2960e9796bcacbcd1.pdf"
+  },
+  {
+    "ID": 32,
+    "TITULO": "LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "06 de octubre de 2023",
+    "FECHA_PUBLICACION": "17-10-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-447b663e96d526f9f56288623407ca55f060dbf2.pdf"
+  },
+  {
+    "ID": 33,
+    "TITULO": "LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de junio de 2023",
+    "FECHA_PUBLICACION": "07-09-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7fd3bbe71c1b3b7d2c5d0f84bad0c0e7c3a55ea2.pdf"
+  },
+  {
+    "ID": 34,
+    "TITULO": "LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "04 de agosto de 2023",
+    "FECHA_PUBLICACION": "24-08-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-bf6cd644a37495aa06baaad1d03263af28d8814e.pdf"
+  },
+  {
+    "ID": 35,
+    "TITULO": "LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "04 de agosto de 2023",
+    "FECHA_PUBLICACION": "24-08-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-172ca2c9c744523e09d59a87db35f66b5fde63f1.pdf"
+  },
+  {
+    "ID": 36,
+    "TITULO": "LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "04 de agosto de 2023",
+    "FECHA_PUBLICACION": "24-08-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3b5e5877053512f273886e1609b8280eefd61f8c.pdf"
+  },
+  {
+    "ID": 37,
+    "TITULO": "LEY DE EDUCAICÓN DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "04 de agosto de 2023",
+    "FECHA_PUBLICACION": "24-08-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-70417d0683db9612be5cb1823be9899bccbd70ef.pdf"
+  },
+  {
+    "ID": 38,
+    "TITULO": "LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de junio de 2023.",
+    "FECHA_PUBLICACION": "30-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-d87be6d93ab14b5f93b573540df04245ef9391cc.pdf"
+  },
+  {
+    "ID": 39,
+    "TITULO": "LEY DE ESPACIOS CULTURALES INDEPENDIENTES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de junio de 2023",
+    "FECHA_PUBLICACION": "30-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3b18a5a1bcc2488208050506ef11ab9d94d59d0f.pdf"
+  },
+  {
+    "ID": 40,
+    "TITULO": "LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de junio de 2023",
+    "FECHA_PUBLICACION": "30-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-8213619d91f2bbbadee1f95db7dd8b76647cc7c6.pdf"
+  },
+  {
+    "ID": 41,
+    "TITULO": "LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de junio de 2023",
+    "FECHA_PUBLICACION": "30-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-587e03779fe0c778e231271ba40c26c507a944ab.pdf"
+  },
+  {
+    "ID": 42,
+    "TITULO": "LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de junio de 2023",
+    "FECHA_PUBLICACION": "30-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-40247b4297cba319673492c592468affc67759ed.pdf"
+  },
+  {
+    "ID": 43,
+    "TITULO": "LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de junio de 2023",
+    "FECHA_PUBLICACION": "30-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5c4eef20aa5da7f77cdc474be941efec73dc7d22.pdf"
+  },
+  {
+    "ID": 44,
+    "TITULO": "LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "12 de junio de 2023",
+    "FECHA_PUBLICACION": "30-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-9d44de8a682f58dce332fe18f5b4e5cfeb9313b7.pdf"
+  },
+  {
+    "ID": 45,
+    "TITULO": "LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "12 de junio de 2023",
+    "FECHA_PUBLICACION": "30-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-b4307335f68cc547df231097e521fe4e2fd73e80.pdf"
+  },
+  {
+    "ID": 46,
+    "TITULO": "LEY DE MEMORIA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de junio de 2023",
+    "FECHA_PUBLICACION": "14-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-4f4b17966c7d1a4efb946f0d5ecda269ae745423.pdf"
+  },
+  {
+    "ID": 47,
+    "TITULO": "LEY DE FOMENTO AL CINE DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "29 de mayo de 2023",
+    "FECHA_PUBLICACION": "14-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5aa96235da488847486b6408d3b3144b1e4cc381.pdf"
+  },
+  {
+    "ID": 48,
+    "TITULO": "LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de mayo de 2023",
+    "FECHA_PUBLICACION": "01-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3fc3ce103074da800388fc41c9dbff8b80a119a0.pdf"
+  },
+  {
+    "ID": 49,
+    "TITULO": "LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "21 de abril de 2023",
+    "FECHA_PUBLICACION": "01-06-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3329236f33047f3cdd25842b856b3fa6b1a1df75.pdf"
+  },
+  {
+    "ID": 50,
+    "TITULO": "LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 de abril de 2023",
+    "FECHA_PUBLICACION": "05-05-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-a062bdbea11155fbb5aad9cf49120bb7056af51c.pdf"
+  },
+  {
+    "ID": 51,
+    "TITULO": "LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de abril de 2023",
+    "FECHA_PUBLICACION": "05-05-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-77d5a211ff1c498a4de785530979c68703cd09fe.pdf"
+  },
+  {
+    "ID": 52,
+    "TITULO": "LEY DE FOMENTO COOPERATIVO PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "27 de abril de 2023",
+    "FECHA_PUBLICACION": "05-05-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-e42509ab2bd667d2837a38701e993734f49d56f6.pdf"
+  },
+  {
+    "ID": 53,
+    "TITULO": "LEY DEL DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "14 de Abril de 2023",
+    "FECHA_PUBLICACION": "19-04-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-aee4b30ee338635d5c0f3312c553c7899330dd74.pdf"
+  },
+  {
+    "ID": 54,
+    "TITULO": "LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "03 de abril de 2023",
+    "FECHA_PUBLICACION": "12-04-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5e9cfdc1fa63fdf6120fd92f434a3e407d58af30.pdf"
+  },
+  {
+    "ID": 55,
+    "TITULO": "LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 de marzo de 2023",
+    "FECHA_PUBLICACION": "12-04-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-6f0375b106c8fe6ebc5838d74fdf96d5f5dfb389.pdf"
+  },
+  {
+    "ID": 56,
+    "TITULO": "LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "01 de marzo de 2023",
+    "FECHA_PUBLICACION": "15-03-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-2d138a1bf3bd98b883c46c3572754fad44a97a75.pdf"
+  },
+  {
+    "ID": 57,
+    "TITULO": "LEY DE ECONOMÍA CIRCULAR DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 de febrero de 2023",
+    "FECHA_PUBLICACION": "15-03-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c71c26848cf53394b562a59079d500ce6603d774.pdf"
+  },
+  {
+    "ID": 58,
+    "TITULO": "LEY PARA GARANTIZAR EL ACCESO LIBRE Y GRATUITO A INTERNET EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de febrero de 2023",
+    "FECHA_PUBLICACION": "15-03-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-393d00934bf54435b6877efde9be1226a24757ef.pdf"
+  },
+  {
+    "ID": 59,
+    "TITULO": "LEY DE ATENCIÓN E INTEGRACIÓN SOCIAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "30 de diciembre de 2022",
+    "FECHA_PUBLICACION": "15-02-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-306eeaae9534ea93355533210d5a14d6df9d4f27.pdf"
+  },
+  {
+    "ID": 60,
+    "TITULO": "LEY DE DERECHOS DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "22 de diciembre de 2022",
+    "FECHA_PUBLICACION": "12-01-2023",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-cdfb36c0e198886e8a900bbbcfdfb5e70f61e08d.pdf"
+  },
+  {
+    "ID": 61,
+    "TITULO": "LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "12 de diciembre de 2022",
+    "FECHA_PUBLICACION": "15-12-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-88e9be57002b9cd50bc710c11cfb1fe41e4e9d59.pdf"
+  },
+  {
+    "ID": 62,
+    "TITULO": "LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "11 de Noviembre de 2022",
+    "FECHA_PUBLICACION": "15-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c3d68f00f1c32beaf8434dd4ed709cba45d4b256.pdf"
+  },
+  {
+    "ID": 63,
+    "TITULO": "LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "11 de Noviembre de 2022",
+    "FECHA_PUBLICACION": "15-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-d04454905a8cb27aa0fb818fe2c8e4cc06388658.pdf"
+  },
+  {
+    "ID": 64,
+    "TITULO": "LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "11 de Noviembre de 2022",
+    "FECHA_PUBLICACION": "15-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-689713b5e0918597c8dff3e5fbf377b08014ce6c.pdf"
+  },
+  {
+    "ID": 65,
+    "TITULO": "LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de Octubre de 2022",
+    "FECHA_PUBLICACION": "04-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-b7d55d876669172b04ba6c152735a12e30d05483.pdf"
+  },
+  {
+    "ID": 66,
+    "TITULO": "LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de Octubre de 2022",
+    "FECHA_PUBLICACION": "04-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7cf599f30bd879082e11a4b10416bf40c0ada299.pdf"
+  },
+  {
+    "ID": 67,
+    "TITULO": "LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "27 de Octubre de 2022",
+    "FECHA_PUBLICACION": "04-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-f5d50fbcde8ba8aeebb370d7bfb8aaf363c04747.pdf"
+  },
+  {
+    "ID": 68,
+    "TITULO": "LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de Octubre de 2022",
+    "FECHA_PUBLICACION": "04-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-0334955cec69ae5815aa9ecf9f21c8e614a15bde.pdf"
+  },
+  {
+    "ID": 69,
+    "TITULO": "LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de Octubre de 2022",
+    "FECHA_PUBLICACION": "03-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3ce3dbf8bd8f7f656061bdcc66e72914b6e4800c.pdf"
+  },
+  {
+    "ID": 70,
+    "TITULO": "LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de Octubre de 2022",
+    "FECHA_PUBLICACION": "03-11-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-d95b264451de43886e7a13d85d49168d5e4ad4aa.pdf"
+  },
+  {
+    "ID": 71,
+    "TITULO": "LEY ORGÁNICA DEL CONSEJO ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "21 del Octubre de 2022",
+    "FECHA_PUBLICACION": "26-10-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-91faad1cfcc274a34a1159d40a207029ff6345ba.pdf"
+  },
+  {
+    "ID": 72,
+    "TITULO": "LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "21 de Octubre de 2022",
+    "FECHA_PUBLICACION": "26-10-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-ccab57e0c910a084498b8a40c3990dd7404086eb.pdf"
+  },
+  {
+    "ID": 73,
+    "TITULO": "LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "06 de octubre de 2022",
+    "FECHA_PUBLICACION": "07-10-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c486121fab5e6569491a98b1de847c7d3c03e161.pdf"
+  },
+  {
+    "ID": 74,
+    "TITULO": "LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "30 de septiembre de 2022",
+    "FECHA_PUBLICACION": "06-10-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7b98766a123a350e6e352eda3d771b3e34a40a0e.pdf"
+  },
+  {
+    "ID": 75,
+    "TITULO": "LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "30 de septiembre de 2022",
+    "FECHA_PUBLICACION": "06-10-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-0596001207d6b3d7225d28d4aacc4c13b5654117.pdf"
+  },
+  {
+    "ID": 76,
+    "TITULO": "LEY DEL TERRITORIO DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "12 de octubre de 2020",
+    "FECHA_PUBLICACION": "22-08-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c266806025d4b6d13f399f59a2fc2c4355ec5a5d.pdf"
+  },
+  {
+    "ID": 77,
+    "TITULO": "LEY DE MEJOR REGULATORIA PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "10 de junio de 2022",
+    "FECHA_PUBLICACION": "04-07-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-2d7b855efa97f397a5ad80d00f8a3809385a4666.pdf"
+  },
+  {
+    "ID": 78,
+    "TITULO": "LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de junio de 2022",
+    "FECHA_PUBLICACION": "04-07-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-94e4e681f6ee477d1fcb67995f7e67fb31489e86.pdf"
+  },
+  {
+    "ID": 79,
+    "TITULO": "LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de mayo de 2022",
+    "FECHA_PUBLICACION": "29-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-ecfcf0c22d9f5f5147cc158ecda749431408ab95.pdf"
+  },
+  {
+    "ID": 80,
+    "TITULO": "LEY DE BIBLIOTECAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "13 de abril de 2022",
+    "FECHA_PUBLICACION": "29-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-f8209d5b6a1e7b8eaa8e08d9a5679548d8d16984.pdf"
+  },
+  {
+    "ID": 81,
+    "TITULO": "LEY DE MOVILIDAD PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de diciembre de 2021",
+    "FECHA_PUBLICACION": "24-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-baaff8dff1842d4c6607a5ca6d5294a939bfd2b4.pdf"
+  },
+  {
+    "ID": 82,
+    "TITULO": "LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de septiembre de 2021",
+    "FECHA_PUBLICACION": "24-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c8b5ac5de1295e48a45b7b6522a7097dc51c1ded.pdf"
+  },
+  {
+    "ID": 83,
+    "TITULO": "LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "22 de julio de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-8428df1510f3d6b4ec7fbd9d231c87dbd5555002.pdf"
+  },
+  {
+    "ID": 84,
+    "TITULO": "LEY DE EVALUACIÓN DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "09 de junio de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-6c86a0d62c49c2df4745ad4acfa7ef51c4cdfc1e.pdf"
+  },
+  {
+    "ID": 85,
+    "TITULO": "LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de mayo de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-0cc1c5b7963061d18b6b69f1c6678ab3b1bd09e3.pdf"
+  },
+  {
+    "ID": 86,
+    "TITULO": "LEY DE SOCIEDADES MUTUALISTAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "23 de abril de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-580405570ffb8d71bb8624dd38efb21ee0ac0e49.pdf"
+  },
+  {
+    "ID": 87,
+    "TITULO": "LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "09 de abril de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5e3a8d47e66c14ccaadfb897f3ad958de193a1df.pdf"
+  },
+  {
+    "ID": 88,
+    "TITULO": "LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "26 de marzo de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-be7b33b8e3f825e0b580abebffbc4cad80c65e5f.pdf"
+  },
+  {
+    "ID": 89,
+    "TITULO": "LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de marzo de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-611a64ec531424b1a2f871baf642ab21ae03262f.pdf"
+  },
+  {
+    "ID": 90,
+    "TITULO": "LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "027 de marzo de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3e30f80b8de43c3e27eb691eae4798c5e3a12888.pdf"
+  },
+  {
+    "ID": 91,
+    "TITULO": "LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de marzo de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-0ea260404b62f238091c18bcf0b984d0377f1f21.pdf"
+  },
+  {
+    "ID": 92,
+    "TITULO": "LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "26 de febrero de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-a1a1cb5a04a82509fd2002e40ba548e49425922f.pdf"
+  },
+  {
+    "ID": 93,
+    "TITULO": "LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "17 de febrero de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5bfbb6efaec3da2b330007b06baa311bd12f6cdc.pdf"
+  },
+  {
+    "ID": 94,
+    "TITULO": "LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "16 de febrero de 2021",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-8558e2a01516a568460756d7d8837b82983a011e.pdf"
+  },
+  {
+    "ID": 95,
+    "TITULO": "LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS EN EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de diciembre de 2014",
+    "FECHA_PUBLICACION": "22-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-bb6cc89132e40353c834dafea993ef3647d80ddc.pdf"
+  },
+  {
+    "ID": 96,
+    "TITULO": "LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "11 de febrero de 2021",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-a8b6a4657686ea6f01e7a024377b814e0664d634.pdf"
+  },
+  {
+    "ID": 97,
+    "TITULO": "LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "14 de enero de 2021",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-248a6646e730eaa2e3e4c8257093b6a06beee5d5.pdf"
+  },
+  {
+    "ID": 98,
+    "TITULO": "LEY PARA LA ATENCIÓN, VISIBILIZACIÓN E INCLUSIÓN SOCIAL DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "14 de enero de 2021",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-283d23f4673dd0e5d19cbd6707bb6e1e56c4042e.pdf"
+  },
+  {
+    "ID": 99,
+    "TITULO": "LEY QUE REGULA EL USO DE LA TECNOLOGÍA PARA LA SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "16 de diciembre de 2020",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-0dc471b7d304b40a3ff38dbbfc04d5b4f6df7d6a.pdf"
+  },
+  {
+    "ID": 100,
+    "TITULO": "LEY DE COORDINACIÓN METROPOLITANA DE LC AIUDAD DE MÉXICOM",
+    "ULTIMA_REFORMA": "16 de diciembre de 2020",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-43db5328df193436d4ab95bd113d05351c13783a.pdf"
+  },
+  {
+    "ID": 101,
+    "TITULO": "LEY DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "01 de diciembre de 2020",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-8acae922e86a873f45b133dbf5bed0f1fb429587.pdf"
+  },
+  {
+    "ID": 102,
+    "TITULO": "LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "18 de fenoviembrerero de 2020",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7401f2d984ee0536e874f444c81d1b2f20c05601.pdf"
+  },
+  {
+    "ID": 103,
+    "TITULO": "LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "13 de noviembre de 2020",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-87ad097ab506d3779ee017a4748e324c66b0927a.pdf"
+  },
+  {
+    "ID": 104,
+    "TITULO": "LEY DEL SECRETO PROFESIONAL Y CLÁUSULA DE CONCIENCIA PARA EL EJERCICIO PERIODÍSTICO EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "08 de junio de 2020",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-6e769f9e067317d6ccc8d432e3c3a05d1d1f0f80.pdf"
+  },
+  {
+    "ID": 105,
+    "TITULO": "LEY DE RESPONSABILIDAD SOCIAL MERCANTIL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "09 de marzo de 2020",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-932fa68f622e3e6d0ddb2e62c491876522325f30.pdf"
+  },
+  {
+    "ID": 106,
+    "TITULO": "LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "04 de agosto de 2021",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-ef679acbbf3f25f083e72a593437826b39d742c8.pdf"
+  },
+  {
+    "ID": 107,
+    "TITULO": "LEY POR LA QUE SE CREA EL BANCO DE ADN PARA USO FORENSE DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "24 de diciembre de 2019",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-e802953454d1d082a5a45361c150dbf73d1e6c8d.pdf"
+  },
+  {
+    "ID": 108,
+    "TITULO": "LEY DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "23 de diciembre de 2019",
+    "FECHA_PUBLICACION": "17-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7eb28720df47c7f8c37ca3ec6a7024ac6807e1d9.pdf"
+  },
+  {
+    "ID": 109,
+    "TITULO": "LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES EN EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "17 de diciembre de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3c087efee58c5289989faf562b71f55f9872e07d.pdf"
+  },
+  {
+    "ID": 110,
+    "TITULO": "LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO",
+    "ULTIMA_REFORMA": "09 de diciembre de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-388ddc23b9c055712695293d065b127c201fa5a2.pdf"
+  },
+  {
+    "ID": 111,
+    "TITULO": "LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de diciembre de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-8b8f05f916fa391f9fc476a35e3038b4c693a12a.pdf"
+  },
+  {
+    "ID": 112,
+    "TITULO": "LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de noviembre de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-04ccd602d1951bd74d18fdee528092202efd4f4b.pdf"
+  },
+  {
+    "ID": 113,
+    "TITULO": "LEY DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de noviembre de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-120fa509a0f7811856d87a4ea00ab1ff05783528.pdf"
+  },
+  {
+    "ID": 114,
+    "TITULO": "LEY PARA LA RETRIBUCIÓN POR LA PROTECCIÓN DE LOS SERVIDORES AMBIENTALES DEL SUELO DE CONSERVACIÓN DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "22 de octubre de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c2cc39f6ec5868fe14cbee2c6547d2eed279dffb.pdf"
+  },
+  {
+    "ID": 115,
+    "TITULO": "LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "13 de septiembre de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-f980a169b5b94beff221f5aa234d23175d41c037.pdf"
+  },
+  {
+    "ID": 116,
+    "TITULO": "LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "12 de junio de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-926698f8f4cf6d90af3c42527a7d8a0225d39cec.pdf"
+  },
+  {
+    "ID": 117,
+    "TITULO": "LEY PARA LA ATENCIÓN INTEGRAL DE LAS PERSONAS CON SÍNDROME DE DOWN DE LA CUIDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "05 de marzo de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-a29ed83740d09fbc4fbd2552cabb4306bdd64359.pdf"
+  },
+  {
+    "ID": 118,
+    "TITULO": "CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "07 de febrero de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c56b53624585cb43abebeb102dff9b15ecfeadf9.pdf"
+  },
+  {
+    "ID": 119,
+    "TITULO": "LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "27 de noviembre de 2018",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-16214da797de232a66948c8602285e2d0606d5c4.pdf"
+  },
+  {
+    "ID": 120,
+    "TITULO": "LEY PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "12 de octubre de 2018",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-dfcd791a26324fcf6e22bed528edcfcfa42ab6cc.pdf"
+  },
+  {
+    "ID": 121,
+    "TITULO": "CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de julio de 2018",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-49957fa44895e47b5d07dc04eac15ab5315f011d.pdf"
+  },
+  {
+    "ID": 122,
+    "TITULO": "LEY QUE EXTINGUE LA PRETENSIÓN PUNITIVA Y LA POTESTAD DE EJERCER PENAS Y MEDIDAS DE SEGURIDAD CONTRA TODAS AQUELLAS CIUDADANAS Y CIUDADANOS A QUIENES SE LE IMPUTARON DELITOS DURANTE LA CELEBRACIÓN DE MANIFESTACIONES EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "08 de junio de 2018",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3705bb5c11dba0a15f5f0736d90003a7aeabbf9a.pdf"
+  },
+  {
+    "ID": 123,
+    "TITULO": "LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 de marzo de 2018",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-db605849cbfc385aaff1849e32cbd229053dfc77.pdf"
+  },
+  {
+    "ID": 124,
+    "TITULO": "LEY DEL INSTITUTO DE ESTUDIOS CIENTÍFICOS PARA LA PREVENCIÓN DEL DELITO EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "15 de marzo de 2018",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-aed03ec7e2f932d08160411852d00a01e752cb3e.pdf"
+  },
+  {
+    "ID": 125,
+    "TITULO": "LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN PARA EL BIENESTAR DE LAS PERSONAS MAYORES RESIDENTES EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "07 de junio de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-9f3e685d7557a9a9013c8d2f4ab9613d8be371ef.pdf"
+  },
+  {
+    "ID": 126,
+    "TITULO": "LEY CONSTITUCIONAL DE DERECHOS HUMANOS Y SUS GARANTÍAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "07 de junio de 2019",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-00f6c2af2814d4a11acee4b707fe30ded8b689db.pdf"
+  },
+  {
+    "ID": 127,
+    "TITULO": "LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "26 de febrero de 2018",
+    "FECHA_PUBLICACION": "14-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-099e3e62fda0cda8ce17d9d7ce7e37306af7a93e.pdf"
+  },
+  {
+    "ID": 128,
+    "TITULO": "LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO",
+    "ULTIMA_REFORMA": "26 de febrero de 2018",
+    "FECHA_PUBLICACION": "13-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-e2e1da768ca3b7589e42783a15879e827b9e3bf2.pdf"
+  },
+  {
+    "ID": 129,
+    "TITULO": "LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "22 de febrero de 2018",
+    "FECHA_PUBLICACION": "13-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-049844f721fa4c38e31958e752b2805acbafed6e.pdf"
+  },
+  {
+    "ID": 130,
+    "TITULO": "LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "21 de febrero de 2018",
+    "FECHA_PUBLICACION": "13-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-cea0b95ab4c9538878044e0655a3d0db2f5b6db4.pdf"
+  },
+  {
+    "ID": 131,
+    "TITULO": "LEY DE ATENCIÓN Y APOYO A VÍCTIMAS DIRECTAS E INDIRECTAS DEL DELITO DE SECUESTRO EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "29 de noviembre de 2017",
+    "FECHA_PUBLICACION": "13-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-dff2ee3d09edfe4da695c21c7d93516abcc70413.pdf"
+  },
+  {
+    "ID": 132,
+    "TITULO": "LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "07 de noviembre de 2017",
+    "FECHA_PUBLICACION": "13-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-d5e19624df3b513dadf1ae4c06ae3190fececf30.pdf"
+  },
+  {
+    "ID": 133,
+    "TITULO": "LEY DEL FONDO DE APOYO A LA PROCURACIÓN DE JUSTICIA EN EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "07 de diciembre de 2017",
+    "FECHA_PUBLICACION": "13-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-fe3154d8898bed61989fa7c6aa326ebca5602412.pdf"
+  },
+  {
+    "ID": 134,
+    "TITULO": "LEY ORGÁNICA DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "02 de noviembre de 2017",
+    "FECHA_PUBLICACION": "13-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-6d84040e207df23f798155f8bfe8635bcf704343.pdf"
+  },
+  {
+    "ID": 135,
+    "TITULO": "LEY DE SOCIEDAD DE CONVIVENCIA PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "24 de octubre de 2017",
+    "FECHA_PUBLICACION": "10-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-422bf09319e7a94c24c4edf72440c62f5c2cc139.pdf"
+  },
+  {
+    "ID": 136,
+    "TITULO": "LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "01 de septiembre de 2017",
+    "FECHA_PUBLICACION": "10-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-23d1e6365815aab5728fcbc3259e992cac6ab80a.pdf"
+  },
+  {
+    "ID": 137,
+    "TITULO": "LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "05 de julio de 2017",
+    "FECHA_PUBLICACION": "10-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-49839514e43c66a3f7fe395bdad5e1240ea0e43e.pdf"
+  },
+  {
+    "ID": 138,
+    "TITULO": "LEY QUE ESTABLECE EL DERECHO A RECIBIR INFORMACIÓN PARA LA PREVENCIÓN DE ENFERMEDADES BUCODENTALES, ADEMÁS DE UN PAQUETE DE SALUD BUCODENTAL POR CICLO ESCOLAR PARA TODOS LOS ALUMNOS RESIDENTES E INSCRITOS EN ESCUELAS PÚBLICAS DE LOS NIVELES PREESCOLAR Y PRIMARIA, EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "19 de abril de 2017",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-54d08965b534b556d8a2c9072849cc0fc6499652.pdf"
+  },
+  {
+    "ID": 139,
+    "TITULO": "LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR",
+    "ULTIMA_REFORMA": "05 de abril de 2017",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-03f7a01a945d51c5303a06384170cc6f57b558d6.pdf"
+  },
+  {
+    "ID": 140,
+    "TITULO": "LEY DE APARATOS AUDITIVOS GRATUITOS EN LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "17 de marzo de 2017",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-212992562150ea6665bffa6794757a140251a75f.pdf"
+  },
+  {
+    "ID": 141,
+    "TITULO": "LEY DE CUNAS DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 DE FEBRERO DE 2017",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-522f49799e6aba2f8dc3d9dc36f053d4afd12aea.pdf"
+  },
+  {
+    "ID": 142,
+    "TITULO": "LEY DE LA ACCESIBILIDAD PARA LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "12 de enero de 2017",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-2349e4582b11e2ba5de8207a87aae5f590471a1f.pdf"
+  },
+  {
+    "ID": 143,
+    "TITULO": "LEY PARA LA ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "16 de septiembre de 2016",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-44c32a03ea40c470d1a0aad92d58a5cea3e375c5.pdf"
+  },
+  {
+    "ID": 144,
+    "TITULO": "LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "15 de septiembre de 2016",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-b685165112df421a78a2912fdac3d259340b896e.pdf"
+  },
+  {
+    "ID": 145,
+    "TITULO": "LEY PARA LA PREVENCIÓN Y EL TRATAMIENTO DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "22 de junio de 2016",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c62a191a0686ca07832632341566941542662d14.pdf"
+  },
+  {
+    "ID": 146,
+    "TITULO": "LEY DE PLANEACIÓN DEMOGRÁFICA Y ESTADÍSTICA PARA LA POBLACIÓN DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "19 de abril de 2016",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-bb1e0c580067f81921cf4ec69e590832991ddc70.pdf"
+  },
+  {
+    "ID": 147,
+    "TITULO": "LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "12 de noviembre de 2015",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-9e83096e36f718f05155d9950a05923a4b5b2a9c.pdf"
+  },
+  {
+    "ID": 148,
+    "TITULO": "LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "20 de agosto de 2015",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7f118e2bc332e2fa489c1cbcaea0bc6fc9ca3c54.pdf"
+  },
+  {
+    "ID": 149,
+    "TITULO": "LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "10 de agosto de 2015",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-81a1701f21dbb6cd21ae5e6844db94726d0341c0.pdf"
+  },
+  {
+    "ID": 150,
+    "TITULO": "LEY DE CUIDADOS ALTERNATIVOS PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "10 de marzo de 2015",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-1d08b2cc3950f86b43af611400523aac12953d67.pdf"
+  },
+  {
+    "ID": 151,
+    "TITULO": "LEY DE JUSTICIA PARA ADOLESCENTES DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "15 de abril de 2015",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-8ce49dac760cab614f5829d3f5c3ede731f6883d.pdf"
+  },
+  {
+    "ID": 152,
+    "TITULO": "LEY DE LA DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de diciembre de 2014",
+    "FECHA_PUBLICACION": "09-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3627b210ff94b918e506d0b78341a7faf3ed82c8.pdf"
+  },
+  {
+    "ID": 153,
+    "TITULO": "LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de diciembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5fec5994c4a2961cee65d839496bc2b566ef9f92.pdf"
+  },
+  {
+    "ID": 154,
+    "TITULO": "LEY DE JUSTICIA ALTERNATIVA EN LA PROCURACIÓN DE JUSTICIA PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de diciembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-67342daad8a7b5cea0d40be28250f503fdc779d6.pdf"
+  },
+  {
+    "ID": 155,
+    "TITULO": "LEY DE SALUD MENTAL DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de diciembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-9aa76ca60947d29c77b3db3c8190d5ac282481d3.pdf"
+  },
+  {
+    "ID": 156,
+    "TITULO": "LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS PÓLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de diciembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-ee9b4057330fa757c1dda362d1517bee5827e92b.pdf"
+  },
+  {
+    "ID": 157,
+    "TITULO": "LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de diciembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5e9976d306cb123befc0883c8fed0195767ffea3.pdf"
+  },
+  {
+    "ID": 158,
+    "TITULO": "LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "18 de diciembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5fd271a8a8d62a47b21b414c89e8b6390a77423a.pdf"
+  },
+  {
+    "ID": 159,
+    "TITULO": "LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "28 de noviembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-219198f41e1079ba7a024d3460bc25450b4261ff.pdf"
+  },
+  {
+    "ID": 160,
+    "TITULO": "LEY DEL SEGURO EDUCATIVO PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "28 de noviembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-f6e0c6a83fa83f9bf2b37b3858abefb516115b3b.pdf"
+  },
+  {
+    "ID": 161,
+    "TITULO": "LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "28 de noviembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-6325cc9a4d50c48b3eb67b850a3e4e91b443f69f.pdf"
+  },
+  {
+    "ID": 162,
+    "TITULO": "LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "28 de noviembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-020734b421dbff59f4d3fc5c7381375f853b091d.pdf"
+  },
+  {
+    "ID": 163,
+    "TITULO": "LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 de noviembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-a31d964c17893a383c03f9708b66b3cac740fa56.pdf"
+  },
+  {
+    "ID": 164,
+    "TITULO": "LEY DE LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO",
+    "ULTIMA_REFORMA": "28 d noviembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c688d5c836613359c2e0baa67c42d182574de7d8.pdf"
+  },
+  {
+    "ID": 165,
+    "TITULO": "LEY PARA LA PREVENCIÓN Y ATENCIÓN INTEGRAL DEL VIH-SIDA DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "23 de septiembre de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7cb7cad88e3f63a47a9a974f166b342e4062289d.pdf"
+  },
+  {
+    "ID": 166,
+    "TITULO": "CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "9 de julio de 2014",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-ffc9d0b0b044f46d2bb67d384a19aaafc58f5a16.pdf"
+  },
+  {
+    "ID": 167,
+    "TITULO": "LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LA DIABETES EN EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "13 de agosto de 2013",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-855e29537241ca2fe0261d890e84239d7156684b.pdf"
+  },
+  {
+    "ID": 168,
+    "TITULO": "LEY DE ATENCIÓN INTEGRAL PARA EL DESARROLLO DE LAS NIÑAS Y NIÑOS EN PRIMERA INFANCIA EN EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "30 de abril de 2013",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-24dafbbc2a4ba492e7314e7ca84233de9131878c.pdf"
+  },
+  {
+    "ID": 169,
+    "TITULO": "LEY DE VOLUNTAD ANTICIPADA PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "27 de julio de 2012",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-f388d1eecb7022661d0cca9cdfd617f517981641.pdf"
+  },
+  {
+    "ID": 170,
+    "TITULO": "LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "16 de mayo de 2012",
+    "FECHA_PUBLICACION": "08-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-7af8a3cfc6e581bf7aea5a4774b84acb73824a7a.pdf"
+  },
+  {
+    "ID": 171,
+    "TITULO": "LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "17 de junio de 2011",
+    "FECHA_PUBLICACION": "07-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-528898a7a99ad7b11969c0a4852b9ada671454c0.pdf"
+  },
+  {
+    "ID": 172,
+    "TITULO": "LEY DE INTERCULTURIDAD, ATENCIÓN A MIGRANTES Y MOVILIDAD HUMANA EN EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "07 de abril de 2011",
+    "FECHA_PUBLICACION": "07-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-d52c850cbaed17d808e6d1896ec3cb42489bdd7f.pdf"
+  },
+  {
+    "ID": 173,
+    "TITULO": "LEY DE SEGURIDAD ALIMENTARIA Y NUTRICIONAL PARA EL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "23 de noviembre de 2010",
+    "FECHA_PUBLICACION": "07-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-61a30ca52159cd153068d1cd2bc97198dcdfb4c3.pdf"
+  },
+  {
+    "ID": 174,
+    "TITULO": "LEY QUE CREA EL CONSEJO PARA LA PREVENCIÓN Y LA ATENCIÓN INTEGRAL DEL VIH-SIDA DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "24 de octubre de 2008",
+    "FECHA_PUBLICACION": "07-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-3f2e8ab53684760e725a3a38af68e837570da7aa.pdf"
+  },
+  {
+    "ID": 175,
+    "TITULO": "LEY QUE REGULA EL USO DE LA FUERZA DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL- Publicada en la GOCDMX el 22 de abril de 2008",
+    "ULTIMA_REFORMA": "N/A",
+    "FECHA_PUBLICACION": "07-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-5652a4a547f3d9ea6ffdc71aa72bf17f42aaa490.pdf"
+  },
+  {
+    "ID": 176,
+    "TITULO": "LEY QUE ESTABLECE EL DERECHO AL ACCESO GRATUITO A LOS SERVICIOS MÉDICOS Y MEDICAMENTOS A LAS PERSONAS RESIDENTES EN EL DISTRITO FEDERAL QUE CARECEN DE SEGURIDAD SOCIAL LABORAL",
+    "ULTIMA_REFORMA": "22 de mayo de 2006",
+    "FECHA_PUBLICACION": "07-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-f5d5624e77280b9e8ef6f985e9355b29b581f271.pdf"
+  },
+  {
+    "ID": 177,
+    "TITULO": "LEY DE LA CAJA DE PREVISIÓN DE LA POLICÍA PREVENTIVA DEL DISTRITO FEDERAL",
+    "ULTIMA_REFORMA": "DOF el 14 de enero de 1986",
+    "FECHA_PUBLICACION": "07-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-9daa829e5881a553fee168e0eacd83e582e1cdc3.pdf"
+  },
+  {
+    "ID": 178,
+    "TITULO": "LEY DE LA INSTITUCIÓN DESCENTRALIZADA DE SERVICIO PÚBLICO \"SERVICIO DE TRANSPORTES ELÉCTRICOS DEL DISTRITO FEDERAL\"",
+    "ULTIMA_REFORMA": "DOF el 04 de enero de 1956",
+    "FECHA_PUBLICACION": "07-06-2022",
+    "URL_PDF": "https://www.congresocdmx.gob.mx/archivo-c8bf2a6714ab808b26d282082311fc73c3326f5e.pdf"
+  }
+]
