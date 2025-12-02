@@ -10,5 +10,9 @@
   "numero_paginas": 88,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-aee4b30ee338635d5c0f3312c553c7899330dd74.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-aee4b30ee338635d5c0f3312c553c7899330dd74.pdf",
+  "materia": [
+    "ambiental",
+    "derechos humanos"
+  ]
 }

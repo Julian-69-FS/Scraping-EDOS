@@ -10,5 +10,9 @@
   "numero_paginas": 20,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-6c86a0d62c49c2df4745ad4acfa7ef51c4cdfc1e.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-6c86a0d62c49c2df4745ad4acfa7ef51c4cdfc1e.pdf",
+  "materia": [
+    "administrativo",
+    "evaluación"
+  ]
 }

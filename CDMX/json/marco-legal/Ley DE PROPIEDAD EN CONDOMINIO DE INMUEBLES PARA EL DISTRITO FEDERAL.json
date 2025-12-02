@@ -10,5 +10,9 @@
   "numero_paginas": 66,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-3b5e5877053512f273886e1609b8280eefd61f8c.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-3b5e5877053512f273886e1609b8280eefd61f8c.pdf",
+  "materia": [
+    "civil",
+    "vivienda"
+  ]
 }

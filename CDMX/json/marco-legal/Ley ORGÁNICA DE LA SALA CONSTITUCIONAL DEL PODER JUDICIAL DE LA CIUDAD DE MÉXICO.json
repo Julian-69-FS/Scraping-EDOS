@@ -10,5 +10,9 @@
   "numero_paginas": 14,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-04ccd602d1951bd74d18fdee528092202efd4f4b.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-04ccd602d1951bd74d18fdee528092202efd4f4b.pdf",
+  "materia": [
+    "constitucional",
+    "justicia"
+  ]
 }

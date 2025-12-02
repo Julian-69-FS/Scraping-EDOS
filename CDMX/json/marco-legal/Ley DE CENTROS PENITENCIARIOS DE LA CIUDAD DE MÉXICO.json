@@ -10,5 +10,9 @@
   "numero_paginas": 62,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-411d7cdcf83e1827b31e0b3d4e28fe84a38c6058.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-411d7cdcf83e1827b31e0b3d4e28fe84a38c6058.pdf",
+  "materia": [
+    "penal",
+    "penitenciario"
+  ]
 }

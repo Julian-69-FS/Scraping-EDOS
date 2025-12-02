@@ -10,5 +10,8 @@
   "numero_paginas": 15,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-5652a4a547f3d9ea6ffdc71aa72bf17f42aaa490.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-5652a4a547f3d9ea6ffdc71aa72bf17f42aaa490.pdf",
+  "materia": [
+    "seguridad pública"
+  ]
 }

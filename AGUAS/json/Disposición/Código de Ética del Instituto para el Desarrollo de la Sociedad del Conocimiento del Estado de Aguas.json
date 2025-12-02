@@ -6,5 +6,8 @@
   "fuente_oficial": "DIARIO OFICIAL DE LA FEDERACION",
   "Fecha de Publicación": "30 de mayo de 2016",
   "es_escaneado": false,
-  "tiene_tablas": false
+  "tiene_tablas": false,
+  "materia": [
+    "ética"
+  ]
 }

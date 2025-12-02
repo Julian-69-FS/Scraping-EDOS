@@ -10,5 +10,9 @@
   "numero_paginas": 17,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-7af8a3cfc6e581bf7aea5a4774b84acb73824a7a.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-7af8a3cfc6e581bf7aea5a4774b84acb73824a7a.pdf",
+  "materia": [
+    "obras públicas",
+    "seguridad"
+  ]
 }

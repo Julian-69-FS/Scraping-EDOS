@@ -10,5 +10,10 @@
   "numero_paginas": 30,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-8558e2a01516a568460756d7d8837b82983a011e.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-8558e2a01516a568460756d7d8837b82983a011e.pdf",
+  "materia": [
+    "víctimas",
+    "derechos humanos",
+    "penal"
+  ]
 }

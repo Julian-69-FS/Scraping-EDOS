@@ -10,5 +10,9 @@
   "numero_paginas": 13,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-7b98766a123a350e6e352eda3d771b3e34a40a0e.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-7b98766a123a350e6e352eda3d771b3e34a40a0e.pdf",
+  "materia": [
+    "ambiental",
+    "desarrollo urbano"
+  ]
 }

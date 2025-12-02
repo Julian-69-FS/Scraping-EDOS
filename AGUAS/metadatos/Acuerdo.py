@@ -38,13 +38,7 @@ class ReglamentoProcessor:
     """Procesador especializado para Reglamentos y Leyes Federales Mexicanas"""
     
     def __init__(self, input_folder: str, output_folder: str):
-        """
-        Inicializa el procesador con las rutas especificadas
 
-        Args:
-            input_folder: Carpeta con los PDFs (ej: C:\\Users\\julii\\Documents\\Leyes y Reglamentos Federales\\REGLAMENTOS)
-            output_folder: Carpeta donde se guardarán los JSON (ej: C:\\Users\\julii\\Documents\\Practicas\\Datos)
-        """
         self.input_folder = Path(input_folder)
         self.output_folder = Path(output_folder)
 

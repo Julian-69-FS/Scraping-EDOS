@@ -10,5 +10,9 @@
   "numero_paginas": 32,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-0334955cec69ae5815aa9ecf9f21c8e614a15bde.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-0334955cec69ae5815aa9ecf9f21c8e614a15bde.pdf",
+  "materia": [
+    "género",
+    "derechos humanos"
+  ]
 }

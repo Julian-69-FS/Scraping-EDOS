@@ -10,5 +10,9 @@
   "numero_paginas": 7,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-db605849cbfc385aaff1849e32cbd229053dfc77.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-db605849cbfc385aaff1849e32cbd229053dfc77.pdf",
+  "materia": [
+    "desarrollo social",
+    "género"
+  ]
 }

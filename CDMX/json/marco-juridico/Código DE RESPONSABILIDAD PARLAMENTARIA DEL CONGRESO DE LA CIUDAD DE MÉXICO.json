@@ -10,5 +10,10 @@
   "numero_paginas": 16,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/media/documentos/c8b20e518a2f88bff7990868cb6acca90bf4eeb4.pdf"
+  "url": "https://www.congresocdmx.gob.mx/media/documentos/c8b20e518a2f88bff7990868cb6acca90bf4eeb4.pdf",
+  "materia": [
+    "parlamentario",
+    "responsabilidad administrativa",
+    "ética"
+  ]
 }

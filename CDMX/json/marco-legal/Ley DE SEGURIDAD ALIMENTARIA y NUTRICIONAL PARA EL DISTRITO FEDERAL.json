@@ -10,5 +10,9 @@
   "numero_paginas": 15,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-61a30ca52159cd153068d1cd2bc97198dcdfb4c3.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-61a30ca52159cd153068d1cd2bc97198dcdfb4c3.pdf",
+  "materia": [
+    "alimentación",
+    "salud"
+  ]
 }

@@ -10,5 +10,9 @@
   "numero_paginas": 29,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-c46d2d4d564d9cb3a2f1c8dee9e7c8353860e6f8.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-c46d2d4d564d9cb3a2f1c8dee9e7c8353860e6f8.pdf",
+  "materia": [
+    "desarrollo social",
+    "derechos humanos"
+  ]
 }

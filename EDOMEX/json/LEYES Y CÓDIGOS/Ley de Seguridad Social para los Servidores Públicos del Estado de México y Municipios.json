@@ -8,5 +8,9 @@
   "Última Reforma Publicada": null,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/048.pdf"
+  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/048.pdf",
+  "materia": [
+    "seguridad pública",
+    "desarrollo social"
+  ]
 }

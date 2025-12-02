@@ -10,5 +10,9 @@
   "numero_paginas": 57,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-611a64ec531424b1a2f871baf642ab21ae03262f.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-611a64ec531424b1a2f871baf642ab21ae03262f.pdf",
+  "materia": [
+    "derechos humanos",
+    "administrativo"
+  ]
 }

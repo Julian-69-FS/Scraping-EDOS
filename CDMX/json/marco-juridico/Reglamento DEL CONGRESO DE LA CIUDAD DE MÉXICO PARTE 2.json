@@ -10,5 +10,10 @@
   "numero_paginas": 296,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/media/documentos/a102b2d76c13d4e233b0fd13b0d81bea954cee73.pdf"
+  "url": "https://www.congresocdmx.gob.mx/media/documentos/a102b2d76c13d4e233b0fd13b0d81bea954cee73.pdf",
+  "materia": [
+    "administrativo",
+    "parlamentario",
+    "constitucional"
+  ]
 }

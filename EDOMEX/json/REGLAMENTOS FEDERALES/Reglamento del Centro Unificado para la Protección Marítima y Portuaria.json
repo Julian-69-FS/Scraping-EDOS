@@ -6,5 +6,10 @@
   "fuente_oficial": "DIARIO OFICIAL",
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "http://www.gob.mx/cms/uploads/attachment/file/164210/Reglamento_CUMAR.pdf"
+  "url": "http://www.gob.mx/cms/uploads/attachment/file/164210/Reglamento_CUMAR.pdf",
+  "materia": [
+    "seguridad",
+    "marítimo",
+    "portuario"
+  ]
 }

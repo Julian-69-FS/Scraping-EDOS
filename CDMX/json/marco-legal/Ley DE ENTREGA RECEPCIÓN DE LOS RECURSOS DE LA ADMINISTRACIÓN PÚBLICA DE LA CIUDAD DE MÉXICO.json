@@ -10,5 +10,9 @@
   "numero_paginas": 13,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-049844f721fa4c38e31958e752b2805acbafed6e.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-049844f721fa4c38e31958e752b2805acbafed6e.pdf",
+  "materia": [
+    "administrativo",
+    "transparencia"
+  ]
 }

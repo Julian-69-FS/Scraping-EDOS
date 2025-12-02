@@ -10,5 +10,9 @@
   "numero_paginas": 40,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-2d7b855efa97f397a5ad80d00f8a3809385a4666.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-2d7b855efa97f397a5ad80d00f8a3809385a4666.pdf",
+  "materia": [
+    "administrativo",
+    "regulación"
+  ]
 }

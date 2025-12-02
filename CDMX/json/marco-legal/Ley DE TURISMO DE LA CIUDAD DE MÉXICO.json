@@ -10,5 +10,9 @@
   "numero_paginas": 57,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-673a5289d50891450c217550e9f561a590bcf88f.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-673a5289d50891450c217550e9f561a590bcf88f.pdf",
+  "materia": [
+    "turismo",
+    "económico"
+  ]
 }

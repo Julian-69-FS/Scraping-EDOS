@@ -10,5 +10,9 @@
   "numero_paginas": 20,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-c56b53624585cb43abebeb102dff9b15ecfeadf9.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-c56b53624585cb43abebeb102dff9b15ecfeadf9.pdf",
+  "materia": [
+    "administrativo",
+    "ética"
+  ]
 }

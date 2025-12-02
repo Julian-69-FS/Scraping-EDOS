@@ -9,5 +9,9 @@
   "Última Reforma Publicada": null,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.gob.mx/cms/uploads/attachment/file/724506/Ley_Fed._Protecc._datos_Personales_05-07-2010.pdf"
+  "url": "https://www.gob.mx/cms/uploads/attachment/file/724506/Ley_Fed._Protecc._datos_Personales_05-07-2010.pdf",
+  "materia": [
+    "protección de datos",
+    "privacidad"
+  ]
 }

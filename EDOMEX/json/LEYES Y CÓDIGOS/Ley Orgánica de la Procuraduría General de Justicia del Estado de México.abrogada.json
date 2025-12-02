@@ -8,5 +8,9 @@
   "Última Reforma Publicada": null,
   "es_escaneado": true,
   "tiene_tablas": false,
-  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/058.pdf"
+  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/058.pdf",
+  "materia": [
+    "administrativo",
+    "justicia"
+  ]
 }

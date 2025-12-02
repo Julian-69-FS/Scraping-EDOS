@@ -10,5 +10,9 @@
   "numero_paginas": 20,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-3c087efee58c5289989faf562b71f55f9872e07d.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-3c087efee58c5289989faf562b71f55f9872e07d.pdf",
+  "materia": [
+    "salud",
+    "ambiental"
+  ]
 }

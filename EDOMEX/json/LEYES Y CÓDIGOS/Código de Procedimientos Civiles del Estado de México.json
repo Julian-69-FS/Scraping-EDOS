@@ -8,5 +8,9 @@
   "Última Reforma Publicada": "5/ABRIL/2021",
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/004.pdf"
+  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/004.pdf",
+  "materia": [
+    "civil",
+    "procesal"
+  ]
 }

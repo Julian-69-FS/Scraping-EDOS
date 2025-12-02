@@ -10,5 +10,9 @@
   "numero_paginas": 26,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-689713b5e0918597c8dff3e5fbf377b08014ce6c.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-689713b5e0918597c8dff3e5fbf377b08014ce6c.pdf",
+  "materia": [
+    "tecnología",
+    "derechos humanos"
+  ]
 }

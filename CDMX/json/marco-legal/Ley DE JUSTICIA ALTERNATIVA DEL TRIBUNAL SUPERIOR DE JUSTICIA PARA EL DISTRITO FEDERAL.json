@@ -10,5 +10,9 @@
   "numero_paginas": 36,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-7f118e2bc332e2fa489c1cbcaea0bc6fc9ca3c54.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-7f118e2bc332e2fa489c1cbcaea0bc6fc9ca3c54.pdf",
+  "materia": [
+    "civil",
+    "justicia alternativa"
+  ]
 }

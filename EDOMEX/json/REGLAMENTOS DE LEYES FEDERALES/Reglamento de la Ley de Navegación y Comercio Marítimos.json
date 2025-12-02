@@ -8,5 +8,10 @@
   "Fecha de Publicación": "4 de marzo de 2015",
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "http://www.gob.mx/cms/uploads/attachment/file/164217/01-reglamento_ley_navegacion_comercio_maritimos.pdf"
+  "url": "http://www.gob.mx/cms/uploads/attachment/file/164217/01-reglamento_ley_navegacion_comercio_maritimos.pdf",
+  "materia": [
+    "marítimo",
+    "comercio",
+    "procesal"
+  ]
 }

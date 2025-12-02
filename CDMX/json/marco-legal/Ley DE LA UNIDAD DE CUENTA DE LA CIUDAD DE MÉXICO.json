@@ -10,5 +10,9 @@
   "numero_paginas": 3,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-c688d5c836613359c2e0baa67c42d182574de7d8.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-c688d5c836613359c2e0baa67c42d182574de7d8.pdf",
+  "materia": [
+    "fiscal",
+    "económico"
+  ]
 }

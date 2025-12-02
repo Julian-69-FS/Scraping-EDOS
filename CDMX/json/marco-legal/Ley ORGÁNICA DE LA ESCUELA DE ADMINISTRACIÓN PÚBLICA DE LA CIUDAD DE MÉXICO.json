@@ -10,5 +10,9 @@
   "numero_paginas": 19,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-6d84040e207df23f798155f8bfe8635bcf704343.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-6d84040e207df23f798155f8bfe8635bcf704343.pdf",
+  "materia": [
+    "administrativo",
+    "educación"
+  ]
 }

@@ -10,5 +10,8 @@
   "numero_paginas": 49,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-b227879fc54792f04b214446ceb5365b06897596.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-b227879fc54792f04b214446ceb5365b06897596.pdf",
+  "materia": [
+    "desarrollo social"
+  ]
 }

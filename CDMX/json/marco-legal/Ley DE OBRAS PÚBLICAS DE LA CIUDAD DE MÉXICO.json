@@ -10,5 +10,9 @@
   "numero_paginas": 75,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-b3b227a044ef8bd3e6e78b0b38de0f3447a5913f.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-b3b227a044ef8bd3e6e78b0b38de0f3447a5913f.pdf",
+  "materia": [
+    "obras públicas",
+    "administrativo"
+  ]
 }

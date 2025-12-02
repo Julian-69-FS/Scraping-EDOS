@@ -1,0 +1,18 @@
+{
+  "titulo": "Presupuesto DE EGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL 2025",
+  "Contenido": "Error al aplicar OCR: Unable to get page count. Is poppler installed and in PATH?",
+  "ordenamiento": "REGLAMENTO",
+  "jurisdiccion": "BAJA CALIFORNIA",
+  "fuente_oficial": "Periódico Oficial",
+  "FECHA PER OFIC": "2024/12/26",
+  "ESTATUS": "VIGENTE",
+  "TOMO": "TOMO_II",
+  "URL": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/20241226_PRESUPUESTOEGRESOSESTADO2025.PDF",
+  "es_escaneado": true,
+  "tiene_tablas": false,
+  "materia": [
+    "financiero",
+    "fiscal",
+    "económico"
+  ]
+}

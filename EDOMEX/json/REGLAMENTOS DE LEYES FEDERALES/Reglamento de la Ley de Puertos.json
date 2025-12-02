@@ -8,5 +8,9 @@
   "Fecha de Publicación": "16 de diciembre de 2021",
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.gob.mx/cms/uploads/attachment/file/724932/Reglamento_de_la_Ley_de_Puertos_16-12-2021.pdf"
+  "url": "https://www.gob.mx/cms/uploads/attachment/file/724932/Reglamento_de_la_Ley_de_Puertos_16-12-2021.pdf",
+  "materia": [
+    "portuario",
+    "operaciones"
+  ]
 }

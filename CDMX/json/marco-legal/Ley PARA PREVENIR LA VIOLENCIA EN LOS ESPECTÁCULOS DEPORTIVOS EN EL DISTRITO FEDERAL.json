@@ -10,5 +10,9 @@
   "numero_paginas": 18,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-bb6cc89132e40353c834dafea993ef3647d80ddc.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-bb6cc89132e40353c834dafea993ef3647d80ddc.pdf",
+  "materia": [
+    "seguridad pública",
+    "deporte"
+  ]
 }

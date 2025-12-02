@@ -10,5 +10,9 @@
   "numero_paginas": 33,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-0cc1c5b7963061d18b6b69f1c6678ab3b1bd09e3.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-0cc1c5b7963061d18b6b69f1c6678ab3b1bd09e3.pdf",
+  "materia": [
+    "educación",
+    "prevención"
+  ]
 }

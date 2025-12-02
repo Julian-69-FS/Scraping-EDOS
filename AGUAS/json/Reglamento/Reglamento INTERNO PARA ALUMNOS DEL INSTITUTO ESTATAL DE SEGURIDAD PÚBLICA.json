@@ -6,5 +6,8 @@
   "fuente_oficial": "DIARIO OFICIAL DE LA FEDERACION",
   "Fecha de Publicación": "22 de enero de 2018",
   "es_escaneado": false,
-  "tiene_tablas": false
+  "tiene_tablas": false,
+  "materia": [
+    "seguridad pública"
+  ]
 }

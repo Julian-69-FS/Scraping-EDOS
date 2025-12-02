@@ -10,5 +10,8 @@
   "numero_paginas": 31,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-d87be6d93ab14b5f93b573540df04245ef9391cc.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-d87be6d93ab14b5f93b573540df04245ef9391cc.pdf",
+  "materia": [
+    "cultura"
+  ]
 }

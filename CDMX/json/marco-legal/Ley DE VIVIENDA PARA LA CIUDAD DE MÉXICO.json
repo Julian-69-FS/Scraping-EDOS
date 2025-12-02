@@ -10,5 +10,9 @@
   "numero_paginas": 50,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-6f72067c0037acb3c27f1dc68b5fd3bd06f5f602.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-6f72067c0037acb3c27f1dc68b5fd3bd06f5f602.pdf",
+  "materia": [
+    "vivienda",
+    "desarrollo urbano"
+  ]
 }

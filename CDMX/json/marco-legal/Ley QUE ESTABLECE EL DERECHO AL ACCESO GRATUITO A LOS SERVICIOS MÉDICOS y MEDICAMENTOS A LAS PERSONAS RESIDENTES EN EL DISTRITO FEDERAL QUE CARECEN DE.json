@@ -10,5 +10,9 @@
   "numero_paginas": 3,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-f5d5624e77280b9e8ef6f985e9355b29b581f271.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-f5d5624e77280b9e8ef6f985e9355b29b581f271.pdf",
+  "materia": [
+    "salud",
+    "seguridad social"
+  ]
 }

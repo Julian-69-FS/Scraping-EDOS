@@ -10,5 +10,9 @@
   "numero_paginas": 41,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-40247b4297cba319673492c592468affc67759ed.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-40247b4297cba319673492c592468affc67759ed.pdf",
+  "materia": [
+    "agropecuario",
+    "desarrollo rural"
+  ]
 }

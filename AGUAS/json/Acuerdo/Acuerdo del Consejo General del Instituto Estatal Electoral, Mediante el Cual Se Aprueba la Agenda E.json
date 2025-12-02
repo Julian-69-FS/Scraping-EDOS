@@ -6,5 +6,8 @@
   "fuente_oficial": "DIARIO OFICIAL DE LA FEDERACION",
   "Fecha de Publicación": "16 de octubre de 2017",
   "es_escaneado": false,
-  "tiene_tablas": true
+  "tiene_tablas": true,
+  "materia": [
+    "electoral"
+  ]
 }

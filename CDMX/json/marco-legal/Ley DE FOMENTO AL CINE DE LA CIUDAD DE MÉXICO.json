@@ -10,5 +10,9 @@
   "numero_paginas": 20,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-5aa96235da488847486b6408d3b3144b1e4cc381.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-5aa96235da488847486b6408d3b3144b1e4cc381.pdf",
+  "materia": [
+    "cultura",
+    "audiovisual"
+  ]
 }

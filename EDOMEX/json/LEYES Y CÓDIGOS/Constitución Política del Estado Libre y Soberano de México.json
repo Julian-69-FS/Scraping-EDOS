@@ -8,5 +8,8 @@
   "Última Reforma Publicada": "31 de octubre de 1917",
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/000.pdf"
+  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/000.pdf",
+  "materia": [
+    "constitucional"
+  ]
 }

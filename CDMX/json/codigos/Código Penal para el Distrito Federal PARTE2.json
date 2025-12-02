@@ -5,10 +5,13 @@
   "jurisdiccion": "CIUDAD DE MEXICO",
   "fuente_oficial": "Congreso de la Ciudad de México",
   "status": "Vigente",
-  "Fecha de Publicación": null,
-  "Fecha de Última Reforma": null,
+  "Fecha de Publicación": "2002-07-16",
+  "Fecha de Última Reforma": "2025-05-30",
   "numero_paginas": 227,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": null
+  "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/2025/CODIGO_PENAL_PARA_EL_DF_12.3.2.pdf",
+  "materia": [
+    "penal"
+  ]
 }

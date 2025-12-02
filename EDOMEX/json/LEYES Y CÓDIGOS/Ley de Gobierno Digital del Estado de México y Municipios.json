@@ -8,5 +8,9 @@
   "Última Reforma Publicada": null,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/042.pdf"
+  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/042.pdf",
+  "materia": [
+    "administrativo",
+    "ciencia y tecnología"
+  ]
 }

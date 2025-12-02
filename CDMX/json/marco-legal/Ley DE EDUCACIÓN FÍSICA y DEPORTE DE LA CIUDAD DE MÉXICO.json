@@ -10,5 +10,9 @@
   "numero_paginas": 41,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-3fc3ce103074da800388fc41c9dbff8b80a119a0.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-3fc3ce103074da800388fc41c9dbff8b80a119a0.pdf",
+  "materia": [
+    "deporte",
+    "educación"
+  ]
 }

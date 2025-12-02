@@ -10,5 +10,9 @@
   "numero_paginas": 53,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-b4307335f68cc547df231097e521fe4e2fd73e80.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-b4307335f68cc547df231097e521fe4e2fd73e80.pdf",
+  "materia": [
+    "derechos humanos",
+    "discapacidad"
+  ]
 }

@@ -10,5 +10,9 @@
   "numero_paginas": 8,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-f5d50fbcde8ba8aeebb370d7bfb8aaf363c04747.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-f5d50fbcde8ba8aeebb370d7bfb8aaf363c04747.pdf",
+  "materia": [
+    "desarrollo urbano",
+    "participación ciudadana"
+  ]
 }

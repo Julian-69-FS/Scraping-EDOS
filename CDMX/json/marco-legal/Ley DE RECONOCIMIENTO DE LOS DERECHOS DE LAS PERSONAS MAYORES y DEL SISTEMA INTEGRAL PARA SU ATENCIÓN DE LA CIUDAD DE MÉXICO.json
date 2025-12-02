@@ -10,5 +10,9 @@
   "numero_paginas": 72,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-bd57c84c2f87a26a657f851bcb4d83a09d2dfa75.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-bd57c84c2f87a26a657f851bcb4d83a09d2dfa75.pdf",
+  "materia": [
+    "derechos humanos",
+    "personas mayores"
+  ]
 }

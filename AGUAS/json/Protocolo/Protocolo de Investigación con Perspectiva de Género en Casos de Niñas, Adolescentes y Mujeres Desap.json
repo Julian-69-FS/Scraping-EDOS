@@ -5,5 +5,9 @@
   "jurisdiccion": "AGUAS CALIENTES",
   "fuente_oficial": "DIARIO OFICIAL DE LA FEDERACION",
   "es_escaneado": false,
-  "tiene_tablas": true
+  "tiene_tablas": true,
+  "materia": [
+    "género",
+    "derechos de la niñez"
+  ]
 }

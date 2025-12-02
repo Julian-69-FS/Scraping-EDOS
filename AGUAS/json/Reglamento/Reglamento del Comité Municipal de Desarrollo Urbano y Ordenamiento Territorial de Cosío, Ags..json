@@ -6,5 +6,9 @@
   "fuente_oficial": "DIARIO OFICIAL DE LA FEDERACION",
   "Fecha de Publicación": "09 de octubre de 2017",
   "es_escaneado": false,
-  "tiene_tablas": false
+  "tiene_tablas": false,
+  "materia": [
+    "urbanismo",
+    "municipal"
+  ]
 }

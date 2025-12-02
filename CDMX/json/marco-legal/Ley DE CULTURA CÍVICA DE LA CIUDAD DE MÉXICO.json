@@ -10,5 +10,9 @@
   "numero_paginas": 69,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-2d138a1bf3bd98b883c46c3572754fad44a97a75.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-2d138a1bf3bd98b883c46c3572754fad44a97a75.pdf",
+  "materia": [
+    "administrativo",
+    "cultura cívica"
+  ]
 }

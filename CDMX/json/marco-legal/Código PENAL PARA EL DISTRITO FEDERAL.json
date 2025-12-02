@@ -10,5 +10,8 @@
   "numero_paginas": 301,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-1756a3b9d0689d278e4578e9bcb6c7591cc9b983.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-1756a3b9d0689d278e4578e9bcb6c7591cc9b983.pdf",
+  "materia": [
+    "penal"
+  ]
 }

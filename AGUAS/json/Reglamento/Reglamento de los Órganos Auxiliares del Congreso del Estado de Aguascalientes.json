@@ -6,5 +6,8 @@
   "fuente_oficial": "DIARIO OFICIAL DE LA FEDERACION",
   "Fecha de Publicación": "13 de julio de 2009",
   "es_escaneado": false,
-  "tiene_tablas": false
+  "tiene_tablas": false,
+  "materia": [
+    "parlamentario"
+  ]
 }

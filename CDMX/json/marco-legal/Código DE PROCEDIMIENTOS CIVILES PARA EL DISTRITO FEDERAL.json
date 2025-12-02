@@ -10,5 +10,9 @@
   "numero_paginas": 360,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-49957fa44895e47b5d07dc04eac15ab5315f011d.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-49957fa44895e47b5d07dc04eac15ab5315f011d.pdf",
+  "materia": [
+    "civil",
+    "procesal"
+  ]
 }

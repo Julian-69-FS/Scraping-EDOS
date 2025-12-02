@@ -10,5 +10,9 @@
   "numero_paginas": 12,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-d5e19624df3b513dadf1ae4c06ae3190fececf30.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-d5e19624df3b513dadf1ae4c06ae3190fececf30.pdf",
+  "materia": [
+    "derechos humanos",
+    "penal"
+  ]
 }

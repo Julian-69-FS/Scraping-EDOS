@@ -10,5 +10,9 @@
   "numero_paginas": 92,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-7d14510e8dd791413de1ca13c91664fef9c577fd.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-7d14510e8dd791413de1ca13c91664fef9c577fd.pdf",
+  "materia": [
+    "fiscal",
+    "presupuesto"
+  ]
 }

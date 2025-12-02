@@ -6,5 +6,10 @@
   "fuente_oficial": "DIARIO OFICIAL DE LA FEDERACION",
   "Fecha de Publicación": "18 \nde diciembre de 2018",
   "es_escaneado": false,
-  "tiene_tablas": true
+  "tiene_tablas": true,
+  "materia": [
+    "cultura",
+    "deporte",
+    "municipal"
+  ]
 }

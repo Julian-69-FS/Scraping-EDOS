@@ -10,5 +10,8 @@
   "numero_paginas": 18,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-d04454905a8cb27aa0fb818fe2c8e4cc06388658.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-d04454905a8cb27aa0fb818fe2c8e4cc06388658.pdf",
+  "materia": [
+    "laboral"
+  ]
 }

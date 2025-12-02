@@ -10,5 +10,9 @@
   "numero_paginas": 49,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-0ea260404b62f238091c18bcf0b984d0377f1f21.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-0ea260404b62f238091c18bcf0b984d0377f1f21.pdf",
+  "materia": [
+    "comercio",
+    "cultura"
+  ]
 }

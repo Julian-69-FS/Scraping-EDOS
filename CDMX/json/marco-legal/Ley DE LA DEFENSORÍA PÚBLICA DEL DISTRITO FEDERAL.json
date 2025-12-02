@@ -10,5 +10,9 @@
   "numero_paginas": 29,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-3627b210ff94b918e506d0b78341a7faf3ed82c8.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-3627b210ff94b918e506d0b78341a7faf3ed82c8.pdf",
+  "materia": [
+    "justicia",
+    "derechos humanos"
+  ]
 }

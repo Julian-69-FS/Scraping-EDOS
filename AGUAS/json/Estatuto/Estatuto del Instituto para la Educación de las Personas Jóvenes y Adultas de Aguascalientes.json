@@ -6,5 +6,9 @@
   "fuente_oficial": "DIARIO OFICIAL DE LA FEDERACION",
   "Fecha de Publicación": "30 de marzo de 2009",
   "es_escaneado": false,
-  "tiene_tablas": false
+  "tiene_tablas": false,
+  "materia": [
+    "educación",
+    "desarrollo social"
+  ]
 }

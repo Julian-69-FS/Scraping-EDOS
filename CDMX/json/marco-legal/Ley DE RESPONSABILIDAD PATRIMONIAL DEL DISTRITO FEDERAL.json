@@ -10,5 +10,9 @@
   "numero_paginas": 16,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-6325cc9a4d50c48b3eb67b850a3e4e91b443f69f.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-6325cc9a4d50c48b3eb67b850a3e4e91b443f69f.pdf",
+  "materia": [
+    "administrativo",
+    "responsabilidad patrimonial"
+  ]
 }

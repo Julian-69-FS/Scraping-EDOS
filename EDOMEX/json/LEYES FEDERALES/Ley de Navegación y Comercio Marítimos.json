@@ -9,5 +9,10 @@
   "Última Reforma Publicada": "07-12-2020",
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.gob.mx/cms/uploads/attachment/file/724500/Ley_de_Navegacion_y_Comercio_Mar_timos_07-12-2020.pdf"
+  "url": "https://www.gob.mx/cms/uploads/attachment/file/724500/Ley_de_Navegacion_y_Comercio_Mar_timos_07-12-2020.pdf",
+  "materia": [
+    "marítimo",
+    "comercio",
+    "transporte"
+  ]
 }

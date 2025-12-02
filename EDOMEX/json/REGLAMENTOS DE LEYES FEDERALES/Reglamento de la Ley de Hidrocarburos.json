@@ -8,5 +8,9 @@
   "Fecha de Publicación": "31 de octubre de 2014",
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "http://www.gob.mx/cms/uploads/attachment/file/164213/ReglamentoHidrocarburos.pdf"
+  "url": "http://www.gob.mx/cms/uploads/attachment/file/164213/ReglamentoHidrocarburos.pdf",
+  "materia": [
+    "energético",
+    "procesal"
+  ]
 }

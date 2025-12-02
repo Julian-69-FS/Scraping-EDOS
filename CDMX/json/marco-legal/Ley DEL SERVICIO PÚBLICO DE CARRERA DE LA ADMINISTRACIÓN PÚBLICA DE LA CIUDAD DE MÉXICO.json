@@ -10,5 +10,9 @@
   "numero_paginas": 28,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-5bfbb6efaec3da2b330007b06baa311bd12f6cdc.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-5bfbb6efaec3da2b330007b06baa311bd12f6cdc.pdf",
+  "materia": [
+    "administrativo",
+    "laboral"
+  ]
 }

@@ -10,5 +10,9 @@
   "numero_paginas": 83,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-172ca2c9c744523e09d59a87db35f66b5fde63f1.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-172ca2c9c744523e09d59a87db35f66b5fde63f1.pdf",
+  "materia": [
+    "comercio",
+    "económico"
+  ]
 }

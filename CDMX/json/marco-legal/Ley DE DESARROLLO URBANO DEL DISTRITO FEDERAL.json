@@ -10,5 +10,9 @@
   "numero_paginas": 103,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-0f196ec439d71c3ff5a57ffd1b85a720a8f71c8e.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-0f196ec439d71c3ff5a57ffd1b85a720a8f71c8e.pdf",
+  "materia": [
+    "urbanismo",
+    "desarrollo urbano"
+  ]
 }

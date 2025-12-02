@@ -10,5 +10,9 @@
   "numero_paginas": 64,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-6f0375b106c8fe6ebc5838d74fdf96d5f5dfb389.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-6f0375b106c8fe6ebc5838d74fdf96d5f5dfb389.pdf",
+  "materia": [
+    "publicidad",
+    "desarrollo urbano"
+  ]
 }

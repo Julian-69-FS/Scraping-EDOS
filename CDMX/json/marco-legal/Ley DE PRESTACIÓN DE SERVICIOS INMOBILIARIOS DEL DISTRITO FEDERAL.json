@@ -10,5 +10,9 @@
   "numero_paginas": 21,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-5fec5994c4a2961cee65d839496bc2b566ef9f92.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-5fec5994c4a2961cee65d839496bc2b566ef9f92.pdf",
+  "materia": [
+    "comercio",
+    "civil"
+  ]
 }

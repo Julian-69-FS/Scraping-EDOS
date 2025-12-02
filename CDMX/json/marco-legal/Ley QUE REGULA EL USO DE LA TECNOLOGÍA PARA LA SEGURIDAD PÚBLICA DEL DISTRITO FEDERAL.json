@@ -10,5 +10,9 @@
   "numero_paginas": 21,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-0dc471b7d304b40a3ff38dbbfc04d5b4f6df7d6a.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-0dc471b7d304b40a3ff38dbbfc04d5b4f6df7d6a.pdf",
+  "materia": [
+    "seguridad pública",
+    "tecnología"
+  ]
 }

@@ -6,5 +6,10 @@
   "fuente_oficial": "DIARIO OFICIAL",
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "http://www.gob.mx/cms/uploads/attachment/file/212009/2017_04_10_MAT_sener.pdf"
+  "url": "http://www.gob.mx/cms/uploads/attachment/file/212009/2017_04_10_MAT_sener.pdf",
+  "materia": [
+    "seguridad",
+    "transporte",
+    "ambiental"
+  ]
 }

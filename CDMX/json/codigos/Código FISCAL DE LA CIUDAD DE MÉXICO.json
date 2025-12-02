@@ -5,10 +5,14 @@
   "jurisdiccion": "CIUDAD DE MEXICO",
   "fuente_oficial": "Congreso de la Ciudad de México",
   "status": "Vigente",
-  "Fecha de Publicación": null,
-  "Fecha de Última Reforma": null,
+  "Fecha de Publicación": "2009-12-29",
+  "Fecha de Última Reforma": "2023-12-26",
   "numero_paginas": 1378,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": null
+  "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_FISCAL_DE_LA_CDMX_6.2.pdf",
+  "materia": [
+    "fiscal",
+    "tributario"
+  ]
 }

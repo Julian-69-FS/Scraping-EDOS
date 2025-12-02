@@ -10,5 +10,8 @@
   "numero_paginas": 53,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-5e9cfdc1fa63fdf6120fd92f434a3e407d58af30.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-5e9cfdc1fa63fdf6120fd92f434a3e407d58af30.pdf",
+  "materia": [
+    "ambiental"
+  ]
 }

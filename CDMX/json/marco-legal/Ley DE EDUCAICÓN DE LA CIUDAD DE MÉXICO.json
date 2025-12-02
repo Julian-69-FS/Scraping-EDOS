@@ -10,5 +10,8 @@
   "numero_paginas": 77,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-70417d0683db9612be5cb1823be9899bccbd70ef.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-70417d0683db9612be5cb1823be9899bccbd70ef.pdf",
+  "materia": [
+    "educación"
+  ]
 }

@@ -10,5 +10,9 @@
   "numero_paginas": 22,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-be7b33b8e3f825e0b580abebffbc4cad80c65e5f.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-be7b33b8e3f825e0b580abebffbc4cad80c65e5f.pdf",
+  "materia": [
+    "administrativo",
+    "fiscalización"
+  ]
 }

@@ -10,5 +10,9 @@
   "numero_paginas": 130,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-7fd3bbe71c1b3b7d2c5d0f84bad0c0e7c3a55ea2.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-7fd3bbe71c1b3b7d2c5d0f84bad0c0e7c3a55ea2.pdf",
+  "materia": [
+    "electoral",
+    "procesal"
+  ]
 }

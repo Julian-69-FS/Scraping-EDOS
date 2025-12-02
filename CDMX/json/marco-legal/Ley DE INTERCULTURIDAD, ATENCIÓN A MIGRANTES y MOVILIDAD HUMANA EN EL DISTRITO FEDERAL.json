@@ -10,5 +10,9 @@
   "numero_paginas": 15,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-d52c850cbaed17d808e6d1896ec3cb42489bdd7f.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-d52c850cbaed17d808e6d1896ec3cb42489bdd7f.pdf",
+  "materia": [
+    "derechos humanos",
+    "migración"
+  ]
 }

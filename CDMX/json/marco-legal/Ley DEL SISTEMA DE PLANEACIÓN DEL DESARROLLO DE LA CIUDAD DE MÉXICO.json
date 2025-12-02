@@ -10,5 +10,9 @@
   "numero_paginas": 43,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-c8b5ac5de1295e48a45b7b6522a7097dc51c1ded.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-c8b5ac5de1295e48a45b7b6522a7097dc51c1ded.pdf",
+  "materia": [
+    "planeación",
+    "administrativo"
+  ]
 }

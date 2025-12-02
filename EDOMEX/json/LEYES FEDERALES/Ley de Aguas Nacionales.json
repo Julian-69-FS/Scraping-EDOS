@@ -9,5 +9,9 @@
   "Última Reforma Publicada": "06-01-2020",
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.gob.mx/cms/uploads/attachment/file/724496/Ley_de_Aguas_Nacionales_06-01-2020.pdf"
+  "url": "https://www.gob.mx/cms/uploads/attachment/file/724496/Ley_de_Aguas_Nacionales_06-01-2020.pdf",
+  "materia": [
+    "ambiental",
+    "recursos hídricos"
+  ]
 }

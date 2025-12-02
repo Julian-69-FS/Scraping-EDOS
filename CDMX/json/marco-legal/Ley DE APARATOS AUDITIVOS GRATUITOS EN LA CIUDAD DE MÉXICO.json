@@ -10,5 +10,9 @@
   "numero_paginas": 7,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-212992562150ea6665bffa6794757a140251a75f.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-212992562150ea6665bffa6794757a140251a75f.pdf",
+  "materia": [
+    "salud",
+    "discapacidad"
+  ]
 }

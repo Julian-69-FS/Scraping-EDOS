@@ -10,5 +10,9 @@
   "numero_paginas": 21,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-812a706cdd1ff1ea0317f688293c562fe155d063.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-812a706cdd1ff1ea0317f688293c562fe155d063.pdf",
+  "materia": [
+    "desarrollo social",
+    "alimentación"
+  ]
 }

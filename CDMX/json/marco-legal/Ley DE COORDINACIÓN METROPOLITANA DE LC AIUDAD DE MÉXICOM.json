@@ -10,5 +10,9 @@
   "numero_paginas": 9,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-43db5328df193436d4ab95bd113d05351c13783a.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-43db5328df193436d4ab95bd113d05351c13783a.pdf",
+  "materia": [
+    "administrativo",
+    "gobernanza metropolitana"
+  ]
 }

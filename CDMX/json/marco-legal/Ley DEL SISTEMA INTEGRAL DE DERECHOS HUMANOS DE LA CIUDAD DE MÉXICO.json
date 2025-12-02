@@ -10,5 +10,8 @@
   "numero_paginas": 30,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-8b8f05f916fa391f9fc476a35e3038b4c693a12a.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-8b8f05f916fa391f9fc476a35e3038b4c693a12a.pdf",
+  "materia": [
+    "derechos humanos"
+  ]
 }

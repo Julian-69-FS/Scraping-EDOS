@@ -10,5 +10,8 @@
   "numero_paginas": 135,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-447b663e96d526f9f56288623407ca55f060dbf2.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-447b663e96d526f9f56288623407ca55f060dbf2.pdf",
+  "materia": [
+    "administrativo"
+  ]
 }

@@ -8,5 +8,9 @@
   "Fecha de Publicación": "11 de junio de 2003",
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.gob.mx/cms/uploads/attachment/file/724928/Reg._Ley_Fed._de_Transparencia_y_Acc._Inf._P_b._Gub._11-06-2003.pdf"
+  "url": "https://www.gob.mx/cms/uploads/attachment/file/724928/Reg._Ley_Fed._de_Transparencia_y_Acc._Inf._P_b._Gub._11-06-2003.pdf",
+  "materia": [
+    "transparencia",
+    "procesal"
+  ]
 }

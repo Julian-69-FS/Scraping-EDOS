@@ -10,5 +10,8 @@
   "numero_paginas": 18,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-7cb7cad88e3f63a47a9a974f166b342e4062289d.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-7cb7cad88e3f63a47a9a974f166b342e4062289d.pdf",
+  "materia": [
+    "salud"
+  ]
 }

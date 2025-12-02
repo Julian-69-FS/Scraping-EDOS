@@ -9,5 +9,9 @@
   "Última Reforma Publicada": "20-05-2021",
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.gob.mx/cms/uploads/attachment/file/724512/Ley_General_de_Mejora_Regulatoria_20-05-2021.pdf"
+  "url": "https://www.gob.mx/cms/uploads/attachment/file/724512/Ley_General_de_Mejora_Regulatoria_20-05-2021.pdf",
+  "materia": [
+    "administrativo",
+    "regulación"
+  ]
 }

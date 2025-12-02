@@ -10,5 +10,9 @@
   "numero_paginas": 22,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-9daa829e5881a553fee168e0eacd83e582e1cdc3.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-9daa829e5881a553fee168e0eacd83e582e1cdc3.pdf",
+  "materia": [
+    "seguridad social",
+    "seguridad pública"
+  ]
 }

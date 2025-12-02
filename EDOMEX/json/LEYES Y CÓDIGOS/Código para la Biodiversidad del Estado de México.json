@@ -8,5 +8,9 @@
   "Última Reforma Publicada": null,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/008.pdf"
+  "url": "https://www.secretariadeasuntosparlamentarios.gob.mx/mainstream/Actividad/legislacion/leyes/pdf/008.pdf",
+  "materia": [
+    "ambiental",
+    "biodiversidad"
+  ]
 }

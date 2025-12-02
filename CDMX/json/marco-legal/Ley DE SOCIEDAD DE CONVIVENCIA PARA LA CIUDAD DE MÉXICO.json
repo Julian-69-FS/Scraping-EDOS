@@ -10,5 +10,9 @@
   "numero_paginas": 7,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-422bf09319e7a94c24c4edf72440c62f5c2cc139.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-422bf09319e7a94c24c4edf72440c62f5c2cc139.pdf",
+  "materia": [
+    "civil",
+    "familia"
+  ]
 }

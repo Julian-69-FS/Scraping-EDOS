@@ -10,5 +10,9 @@
   "numero_paginas": 84,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-b7d55d876669172b04ba6c152735a12e30d05483.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-b7d55d876669172b04ba6c152735a12e30d05483.pdf",
+  "materia": [
+    "participación ciudadana",
+    "político"
+  ]
 }

@@ -10,5 +10,9 @@
   "numero_paginas": 11,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-020734b421dbff59f4d3fc5c7381375f853b091d.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-020734b421dbff59f4d3fc5c7381375f853b091d.pdf",
+  "materia": [
+    "civil",
+    "derechos humanos"
+  ]
 }

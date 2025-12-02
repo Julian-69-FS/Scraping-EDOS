@@ -5,10 +5,13 @@
   "jurisdiccion": "CIUDAD DE MEXICO",
   "fuente_oficial": "Congreso de la Ciudad de México",
   "status": "Vigente",
-  "Fecha de Publicación": null,
-  "Fecha de Última Reforma": null,
+  "Fecha de Publicación": "1926-05-26",
+  "Fecha de Última Reforma": "2024-11-29",
   "numero_paginas": 395,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": null
+  "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_CIVIL_PARA_EL_DF_15.2.pdf",
+  "materia": [
+    "civil"
+  ]
 }

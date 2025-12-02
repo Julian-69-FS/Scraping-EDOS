@@ -10,5 +10,9 @@
   "numero_paginas": 98,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-9f74acb7161683c662d59b2affce2de003e62615.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-9f74acb7161683c662d59b2affce2de003e62615.pdf",
+  "materia": [
+    "justicia",
+    "administrativo"
+  ]
 }

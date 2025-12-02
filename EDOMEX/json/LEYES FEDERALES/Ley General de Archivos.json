@@ -9,5 +9,9 @@
   "Última Reforma Publicada": null,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.gob.mx/cms/uploads/attachment/file/724510/Ley_General_de_Archivos_15-06-2018.pdf"
+  "url": "https://www.gob.mx/cms/uploads/attachment/file/724510/Ley_General_de_Archivos_15-06-2018.pdf",
+  "materia": [
+    "administrativo",
+    "gestión documental"
+  ]
 }

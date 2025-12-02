@@ -10,5 +10,9 @@
   "numero_paginas": 41,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-cdfb36c0e198886e8a900bbbcfdfb5e70f61e08d.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-cdfb36c0e198886e8a900bbbcfdfb5e70f61e08d.pdf",
+  "materia": [
+    "derechos humanos",
+    "derechos indígenas"
+  ]
 }

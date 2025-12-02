@@ -10,5 +10,9 @@
   "numero_paginas": 12,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-67342daad8a7b5cea0d40be28250f503fdc779d6.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-67342daad8a7b5cea0d40be28250f503fdc779d6.pdf",
+  "materia": [
+    "justicia alternativa",
+    "penal"
+  ]
 }

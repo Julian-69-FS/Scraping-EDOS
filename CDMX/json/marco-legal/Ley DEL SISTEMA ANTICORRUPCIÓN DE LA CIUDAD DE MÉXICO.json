@@ -10,5 +10,9 @@
   "numero_paginas": 37,
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "https://www.congresocdmx.gob.mx/archivo-87ad097ab506d3779ee017a4748e324c66b0927a.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-87ad097ab506d3779ee017a4748e324c66b0927a.pdf",
+  "materia": [
+    "anticorrupción",
+    "administrativo"
+  ]
 }

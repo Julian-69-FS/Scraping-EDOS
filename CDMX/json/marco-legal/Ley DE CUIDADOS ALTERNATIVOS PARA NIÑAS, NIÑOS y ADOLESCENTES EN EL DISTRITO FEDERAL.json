@@ -10,5 +10,9 @@
   "numero_paginas": 31,
   "es_escaneado": false,
   "tiene_tablas": true,
-  "url": "https://www.congresocdmx.gob.mx/archivo-1d08b2cc3950f86b43af611400523aac12953d67.pdf"
+  "url": "https://www.congresocdmx.gob.mx/archivo-1d08b2cc3950f86b43af611400523aac12953d67.pdf",
+  "materia": [
+    "infancia",
+    "desarrollo social"
+  ]
 }

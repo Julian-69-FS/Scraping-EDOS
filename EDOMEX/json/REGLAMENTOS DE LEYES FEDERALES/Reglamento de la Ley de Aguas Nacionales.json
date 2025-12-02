@@ -8,5 +8,9 @@
   "Fecha de Publicación": "12 de enero de 1994",
   "es_escaneado": false,
   "tiene_tablas": false,
-  "url": "http://www.gob.mx/cms/uploads/attachment/file/164212/Reglamentoaguasnacionales.pdf"
+  "url": "http://www.gob.mx/cms/uploads/attachment/file/164212/Reglamentoaguasnacionales.pdf",
+  "materia": [
+    "ambiental",
+    "recursos hídricos"
+  ]
 }
